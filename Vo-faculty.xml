@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty>
+	<member>
+		<name>Ryan Boettger</name>
+		<title>Associate Professor</title>
+		<office>Auditorium 314</office>
+		<phone>(940)565-4458</phone>
+		<email>ryan.boettger@unt.edu</email>
+	</member>
+	<member>
+		<name>Tim Montler</name>
+		<title>Distingguished Professor</title>
+		<office>Language 407J</office>
+		<phone>(940)565-4458</phone>
+		<email>montler@unt.edu</email>
+	</member>
+</faculty>
