@@ -1,0 +1,10 @@
+h1 {text-align: center; color: #99FFCC; font-size: 300%;}
+h2 {text-align: center; color: #C2C2E0; -moz-text-decoration-style: double; text-decoration: underline;}
+h3 {text-align: justify; color: white;}
+ul {text-align: justify; color: white;}
+ol {text-align: justify; color: white;}
+body {
+	background-image: url('http://www.nomadicmatt.com/wp-content/themes/nomadicmatt/images/hero3.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;}
