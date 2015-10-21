@@ -1,0 +1,1774 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="25countries.xsl"?>
+
+ <countrylisting title="25 countries to discover">
+ <header>
+	<title>25 Countries You Can't Wait to Discover Now</title>
+	<description>
+		<intro>A backpack full of information about 25 hidden, indigenous, and colorful countries out there for all wanderlusts to explore. What are you still waiting for?</intro>
+		<source>Lonely Planet The World: A Traveller's Guide to the Planet</source>
+		<disclaimer>
+			<structure>The countries are originally listed in Alphabetic order. However, to maximize your information browsing, the column of Country and Continent are sortable alphabetically.</structure>
+			<warning>Travel at your own risk. Consider thoroughly and choose wise!</warning>
+			</disclaimer>
+	</description>
+	<author>Collected by Khue "Kylie" Vo
+		<bio>Another wanderlust just like you. My feet are always itchy and I just can't wait to embark on new adventures!</bio>
+		<contact>
+			<email>khuevo.unt@gmail.com</email>
+			<phone>(832)416-6985</phone>
+		</contact>
+	</author>
+</header>
+<country-list>
+	<country id="1">
+		<name>Afghanistan</name>
+		<image>image/1.jpg</image>
+		<continent>Asia</continent>
+		<capital>Kabul</capital>
+		<population>31,100,00</population>
+		<area>652,230 sq km</area>
+		<official-language>Dari, Pasho</official-language>
+		<attractions>
+			<attraction>
+				<name>Kabul:</name>
+				<description>Kabul is exciting, frustrating, inspiring and shocking in equal measure. Once a stop on the hippy trail, and then ruined by civil war, Kabul's path to reconstruction remains rocky. In recent years it has boomed with new buildings, fancy restaurants and busy bazaars.</description>
+			</attraction>
+			<attraction>
+				<name>Bamiya:</name>
+				<description>Once a place of Buddhist pilgrimage, Bamiyan is now more closely associated with the destruction visited on Afghanistan's culture. The two giant statutes of the Buddha that once dominated the valley lie in rubble, victims of the Taliban's iconoclastic rage. Yet the Bamiyan Valley remains one of the most beautiful places in Afghanistan, and a must-see for any visitor.</description>
+			</attraction>
+			<attraction>
+				<name>Mazar-e Sharif:</name>
+				<description>North Afghanistan's biggest city, Mazar-e Sharif was long overshadowed by the power of its neighbour Balkh. It took a 12th-century mullah to change that. He claimed to have found the hidden tomb of Ali, the Prophet Mohammed's son-in-law, buried in a local village. Its shrine today is the focus of the national Nawroz (Narvus) celebrations.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Pulao:</name>
+				<description>Steamed rice with meat, topped with almonds, raisins, and grated carrot, is often eaten everywhere from communal plates.</description>
+			</cuisine>
+			<cuisine>
+				<name>Steamed dumplings:</name>
+				<description>Served with yoghurt sauce, stuffed with meat - mantu or leeks - ashak.</description>
+			</cuisine>
+			<cuisine>
+				<name>Tea:</name>
+				<description>Green Tea - chai sabz or black tea - chai siah are both served highly sweetened and scalding hot.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Sep-Nov:</time>
+					<reason>Autumn is warm and dry, with plenty of delicious Afghan fruit.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Mar-May:</time>
+						<reason>In spring there's nice weather, but rain and snowmelt can make many roads difficult to traverse.</reason>
+					</other>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>Summer can be blisteringly hot, although Kabul enjoys pleasantly cool nights.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="2">
+		<name>Antarctica</name>
+		<image>image/2.jpg</image>
+		<continent>Antarctica</continent>
+		<capital>None</capital>
+		<population>
+			<season>Summer: 4490</season>
+			<season>Winter: 1106</season>
+		</population>
+		<area>14,000,000 sq km</area>
+		<official-language>None</official-language>
+		<attractions>
+			<attraction>
+				<name>AmundsenScott South Pole Station:</name>
+				<description>First reached just 100 years ago by the valiant explorer Roald Amundsen during the Heroic Age of Antarctic exploration, the South Pole still embodies myth, hardship and glory. Today it is topped by a new high-tech station surrounded by cutting-edge astrophysical observation equipment, including a neutrino detector array buried approximately 1.9 km below the ice.</description>
+			</attraction>
+			<attraction>
+				<name>Cruising the Lemaire Channel:</name>
+				<description>The sheer-sided Lemaire Channel is a perennial favorite for photography buffs and naturalists. Under pale-pink skies, glaciers tumble slow-motion to the sea from the mountains overhead, YOur Zodiac glides past a floe topped by basking Weddell seals, another crowded by a noisy group of gentoo penguins. Nearby, an enormous female leopard seal sleeps off a recent meal.</description>
+			</attraction>
+			<attraction>
+				<name>Cape Evans:</name>
+				<description>Reaching Ross Island’s Cape Evan isn’t easy – but then again, it never was. Dog skeletons bleach on the sand in the Antarctic sun, chiding memento mori of Captain Robert Scott’s death march from the Pole. Inside Scott’s hut from that ill-fated Terra Nova expedition a collection of sledging pennants, rustling pony harnesses and a sighing wind evoke the doomed men who left here with high hopes of reaching the pole.</description>
+			</attraction>
+			<attraction>
+				<name>Shackleton’s Hut:</name>
+				<description>Step inside Ernest Shackleton’s Nimrod expedition hut at Cape Royds on Ross Island and enter an eerily preserved world from a century ago. Amazingly intact despite 100 years of blasting Antarctic storms, the wooden house is surprisingly homey. Colored glass medicine bottles line shelves, a fur sleeping bag rests on one of the bunks and tins of food with unappetizing names, boiled mutton, lunch tongue, pea powder, are stacked on the floor, awaiting diners who will never return. Adelie penguins fill the cape now, breeding in summer.</description>
+			</attraction>
+			<attraction>
+				<name>Paradise Harbor:</name>
+				<description>The pragmatic whalers who worked in the waters of the Antarctic Peninsula at the beginning of the 20th century were hardly sentimental. Yet they named this harbor Paradise, obviously quite taken with the stunning icebergs and reflections of the surrounding mountains. Gentoos and shags call the area home. A climb up the hill here offers magnificent glacier views – if you’re lucky you might see one calving into the Southern Ocean.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>Frozen, dried and canned food form the majority of meals for those stationed at the South Pole. Cooking is challenging: the risk of fire means that all stoves are electric, which take longer than gas ranger. Most food is stored outdoors, where it freezes solid, and it can take up to two weeks for meat to defrost in the walk-in refrigerator!</cuisine>
+			<cuisine>Through the long dark winter, chocolate is a favorite. One popular dessert is ‘buzz bars’, brownies with chocolate covered espresso beans baked into them. ‘Slushies’ are very fresh snow with Coke or liquor added. Ice cream is also a local favorite, but since it’s stored outdoors, it has to be microwaved before it can be eaten.</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Dec-Jan:</time>
+					<reason>Expect up to 20 hours of sunlight each day, and the main influx of Antarctic visitors. Days are warm as they get here, penguins hatch eggs and feed chicks; seabird soar</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Nov:</time>
+						<reason> the ice breaks up and penguins court.</reason> 
+					</other>
+					<other>
+						<time>Feb-Mar:</time>
+						<reason>Prime time for whale-watching, and penguin chicks are fledging.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="3">
+		<name>Armenia</name>
+		<image>image/3.jpg</image>
+		<continent>Europe</continent>
+		<capital>Yerevan</capital>
+		<population>3,100,000</population>
+		<area>29,743 sq km</area>
+		<official-language>Armenian</official-language>
+		<attractions>
+			<attraction>
+				<name>Yerevan:</name>
+				<description>Immerse yourself in the lively cultural life, buzzing café scene and wealth of museums in the capital Yerevan. While it’s the undeniable cultural, economic and political heart of the nation, Yerevan can at times feel like a city on permanent holiday. All summer long, Yerevanites saunter up and down the boulevards, preening in high fashion and fats cars while occasionally popping into a café to schmooze over a drink or two.</description>
+			</attraction>
+			<attraction>
+				<name>Tatev Monastery:</name>
+				<description>Armenia’s rich collection of ancient churches and monasteries is a world treasure that has developed over thousands of years. The general layout and design are almost universal and you’ll soon become accustomed to seeing the ubiquitous conical roof, resembling Mt. Ararat. Closer inspection reveals that each monastery has its own unique character and design variation. Tatev’s mountaintop perch is on the edge of the Vorotan Canyon, and is a jaw-dropping World Heritage-listed church. The views down the gorge reach to the peaks of Karabakh.</description>
+			</attraction>
+			<attraction>
+				<name>Yeghesis Valley:</name>
+				<description>Go exploring in the idyllic Yeghegis Valley, peppered with quaint villages, old churches and even a mysterious Jewish cemetery. The beautiful valley is surrounded by towering peaks and contains a rare concentration of churches, including Tsakhatskar Monastery, a crumbling agglomeration of churches and old khatchkars. It has a couple of churches, including the very unusual Surp Zorats, where worshippers gathered before an outdoor altar, where once horses and soldiers were blessed before going off to battle.</description>
+			</attraction>
+			<attraction>
+				<name>Dilijan:</name>
+				<description>Break for a few days in Dilijan for some fine mountain scenery, hiking trails and its historic old town. It’s billed as the ‘Switzerland of Armenia’, and although that may be a bit of stretch, alpine Dilijan is still one of the most pleasant regions in the country. Suring Soviet times this was the peaceful retreat for cinematographers, composers, artists and writers to come and be creative; today it’s a center for tourism with a number of fine B and Bs and a revitalized historic district.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Cognac:</name>
+				<description>The country’s national liquor, around 40% alcohol.</description>
+			</cuisine>
+			<cuisine>
+				<name>Dolma:</name>
+				<description>Rice wrapped in vine leaves.</description>
+			</cuisine>
+			<cuisine>
+				<name>Ishkhan khoravats:</name>
+				<description>Grilled trout from Lake Sevan.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kartofel Atari graki mej:</name>
+				<description>Baked potatoes cooked in cow dung, which is said to boost flavor.</description>
+			</cuisine>
+			<cuisine>
+				<name>Khash:</name>
+				<description>A thick winter stew made from animal parts.</description>
+			</cuisine>
+			<cuisine>
+				<name>Khoravats:</name>
+				<description>Barbecued food; pork is the favorite, though lamb, beef and sometimes chicken are usually available.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Late Sep-Early Nov:</time>
+					<reason>Autumn has long, warm days and more stable weather.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Mar-May:</time>
+						<reason>Spring brings a riot of flowers but also a lot of rain.</reason>
+					</other>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>In summer Yerevan can be 40 degree C fr days at a time. Conditions in the north are mild.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	 <country id="4">
+		<name>Barbados</name>
+		<image>image/4.jpg</image>
+		<continent>North America</continent>
+		<capital>Bridgetown</capital>
+		<population>288,725</population>
+		<area>430 sq km</area>
+		<official-language>English</official-language>
+		<attractions>
+			<attraction>
+				<name>Surfing the Soup Bowl:</name>
+				<description>The world-famous reef break known as the Soup Bowl is right off the beach in northern Bathsheba. It is one of the best waves in the Caribbean islands. Don’t underestimate the break just because the region is not known for powerful surf – Soup Bowl gets big. Moreover, the reef is shallow and covered in parts by spiny sea urchins. It’s a strong right-handed break which has three take-off pints that can be surfed point to point if you are fast and can read the wave. Overall, the bets months are August to March. For good surfers, it’s September to November during hurricane season and the start of cold fronts. Farmed surfer Kelly Slater calls it a 9+ on a scale of one to 10. For beginners March to May is best.</description>
+			</attraction>
+			<attraction>
+				<name>Accra Beach:</name>
+				<description>Accra Beach is a picture-perfect crescent of sand that you’ll want to immediately photograph and post on Facebook to irritate those left at home. Backed by shade trees, there’s surf to make things interesting but nothing too dramatic. A new boardwalk allows you to walk west for more than 3 km to Hastings. Stop for a glass of champagne at longtime favorite Champers, with a dreamy location off the main road right on the water overlooking Accra Beach.</description>
+			</attraction>
+			<attraction>
+				<name>St Nicholas Abbey:</name>
+				<description>St Nicholas is one of the oldest plantation houses in the Caribbean and a must-see top on any island itinerary. Owner and local architect Larry Warren has undertaken a massive improvement program. The grounds are noew simply gorgeous, with guinea fowl wandering among the flowers. The interior re-creates the mansion’s 17th-century lok, right down to the furniture, an old steanm engine has been restored and the plantation us again bottling its own rum and molasses; you can taste some and enjoy a snack at the serene café. Be sure to read the lurid history of the plantation’s founders’ murder, intrigue, sex!.</description>
+			</attraction>
+			<attraction>
+				<name>Oistins Fish Fry:</name>
+				<description>Reveal in one of the Caribbean’s great parties, the weekly Oistins Fish Fry. With Soca – an energetic off spring of calypso, reggae, pop and country music, vendors selling barbecued fish, and plenty of rum drinking, the legendary Fish Fry is the weekly social event on the island. It’s roughly 60% locals, 40% tourists and there’s a joyous electricity in the air on Friday night, which is just a tad more fun than the fish fry’s other night, Saturday. It’s held in a complex of low-rise modern buildings right on the sand next to the fish market in the town of Oistins; food is served from 6pm to 10:30pm. Buy an icy bottle of Banks beer and wander the scene.</description>
+			</attraction>
+			<attraction>
+				<name>Cricket at Kensington Oval:</name>
+				<description>The national spot, if not national obsession, is cricket. Per capita, Bajans boast more world-class cricket players than any other nation. One of the world’s top all-rounders, Bajan native Sir Garfield Sobers, was knighted by Queen Elizabeth II during her 1975 visit to Barbados, while another cricket hero, Sir Frank Worrell, appears on the face of the B$5 bill. In Barbados, you can catch an international test match or just a friendly game on the beach or grassy field. Thousands of Bajans and other West Indians pour into the world-class matches at Kensington Oval, in Garrison near Bridgetown..</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Bananas:</name>
+				<description>Local varieties are green even when ripe.</description>
+			</cuisine>
+			<cuisine>
+				<name>Banks:</name>
+				<description>The island’s crisp lager is refreshing after a day in the sun.</description>
+			</cuisine>
+			<cuisine>
+				<name>Barbadian rum:</name>
+				<description>Considered some of the finest in the Caribbean, with Mount Gay being the best-known label.</description>
+			</cuisine>
+			<cuisine>
+				<name>Conkies:</name>
+				<description>A mixture of cornmeal, coconut, pumpkin, sweet potato, raisins, and spices, steamed in a plantain leaf.</description>
+			</cuisine>
+			<cuisine>
+				<name>Cou-cou:</name>
+				<description>A creamy cornmeal and okra mash.</description>
+			</cuisine>
+			<cuisine>
+				<name>Cutters:</name>
+				<description>Meat or fish sandwiches in a salt-bread roll.</description>
+			</cuisine>
+			<cuisine>
+				<name>Fish cakes:</name>
+				<description>There are myriad Bajan recipes, made from salt cod and deep-friend.</description>
+			</cuisine>
+			<cuisine>
+				<name>Frying fish:</name>
+				<description>Served friend in delicious sandwiches all over the country. It’s a mild white fish that is great sautéed or deep friend.</description>
+			</cuisine>
+			<cuisine>
+				<name>Jug-jug:</name>
+				<description>A mixture of cornmeal, green peas and salted meat.</description>
+			</cuisine>
+				<cuisine>
+				<name>Roti:</name>
+				<description>A curry filling rolled inside flat bread.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>May-Jun and Nov:</time>
+					<reason>The shoulder season has the best mix of affordable rates and good weather.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Dec-Apr:</time>
+						<reason>The tourist high season, with people fleeing the northern winter. Prices break.</reason>
+					</other>
+					<other>
+						<time>Jul-Oct:</time>
+						<reason>Rainy: hurricane season – although many years see none. Good for surfing holidays.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="5">
+		<name>Canada</name>
+		<image>image/5.jpg</image>
+		<continent>North America</continent>
+		<capital>Ottawa</capital>
+		<population>34,600,000</population>
+		<area>10,000,000 sq km</area>
+		<official-language>English, French</official-language>
+		<attractions>
+			<attraction>
+				<name>Haida Gwaii:</name>
+				<description>Once known as the Queen Charlotte Islands, this dagger-shaped archipelago 80km off British Columbia’s coast is a magical trip for those who make it. Colossal spruce and cedars cloak the wild, rain-sodden landscape. Bald eagles and bears inhabit the ancient forest, while sea lions and orcas patrol the waters. But the island’s real soul is the resurgent Haida people, bets known for their war canoe and totem pole cravings. See the lot at Gwaii Haanas National Park Reserve, which combines lost Haida villages, burial caves and hot springs with some of the continent’s bets kayaking.</description>
+			</attraction>
+			<attraction>
+				<name>Nahanni National Park Reserve:</name>
+				<description>Gorgeous hot springs, haunted gorges and gorging grizzles fill this remote park near the Yukon border, and you’ll have to fly in to reach them. Only about 1000 visitors per year make the trek, half of them paddlers trying to conquer the South Nahanni River. Untamed and spectacular, it churns 500km through the Mackenzie Mountains. Thirty-story waterfalls, towering canyons and legends of giants and lost gold round out the journey north. </description>
+			</attraction>
+			<attraction>
+				<name>The Rockies:</name>
+				<description>The sawtooth of white-topped mountains straddling the BC/Alberta border inspires both awe and action. Four national parks – Banff, Yoho, Kootenay and Jasper – offer opportunities for hiking, kayaking and skiing. The train provides another popular way to experience the grandeur: luminous lakes, jumbles of wildflowers and glistening glaciers glide by as the steel cars chug up mountain passes and down river valleys en route to points east or west.</description>
+			</attraction>
+			<attraction>
+				<name>Vancouver:</name>
+				<description>Vancouver always lands atop the “best places to live” lists, and who’s to argue? Sea-to-sky beauty surrounds the laid-back, cocktail-lovin’ metropolis. With skiable mountains on the outskirts, 11 beaches fringing the core and Stanley Park’s thick rainforest just blocks from downtown’s glass skyscrapers, it’s a harmonic convergence of city and nature. It also mixes Hollywood chic (many movies are filmed here) with a freewheeling counterculture (a popular nude beach and the Marijuana Party political headquarters) and buzzing multicultural communities.</description>
+			</attraction>
+			<attraction>
+				<name>Niagara Falls:</name>
+				<description>Crowded? Cheese? Well, yes. Niagara is short, too – it barely cracks the top 500 worldwide for height. But come on, when those great muscular bands of water arc over the precipice like liquid glass, roaring into the void below, and when you sail toward it in a mist-shrouded little boat, Niagara Falls impresses bug time. In terms of sheer volume, nowhere in North America beats its thundering cascade, with more than one million bathtubs of water plummeting over the edge every second.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Beavertails:</name>
+				<description>Fried, sugared dough.</description>
+			</cuisine>
+			<cuisine>
+				<name>Beef:</name>
+				<description>Alberta is the nation’s beef capital and you’ll find top-notch Alberta steak on menus at leading restaurants across the country.</description>
+			</cuisine>
+			<cuisine>
+				<name>Lobster:</name>
+				<description>The main dish of the east, boiled in the pot and served with a little butter. Dip into some chunky potato salad and hearty seafood chowder while waiting for your crustacean to arrive.</description>
+			</cuisine>
+			<cuisine>
+				<name>Maktaaq:</name>
+				<description>Whale skin cut into small pieces and swallowed whole.</description>
+			</cuisine>
+			<cuisine>
+				<name>Maple Syrup:</name>
+				<description>Quebec is the world’s largest maple-syrup producer, processing around 6.5 million gallons of the sweet pancake accompaniment every year.</description>
+			</cuisine>
+			<cuisine>
+				<name>Prairie Oysters:</name>
+				<description>Bull’s testicles prepared in a variety of ways designed to take your mind off the origin.</description>
+			</cuisine>
+			<cuisine>
+				<name>Poutine:</name>
+				<description>French fries topped with gravy and cheese curds.</description>
+			</cuisine>
+			<cuisine>
+				<name>Seal:</name>
+				<description>Northern specialty served boiled.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>May, Sep and Oct:</time>
+					<reason>Crowds and prices drop off. The temperature are cool but comfortable. Attraction keep shorter hours. Fall foliage areas (ie Cape Breton, Quebec) remain busy.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>Sunshine and warm weather prevail; far northern regions briefly thaw Accommodation prices peak. December through March is equally busy and expensive in ski resort towns.</reason>
+					</other>
+					<other>
+						<time>Nov-Apr:</time>
+						<reason>Places outside the bug cities and ski resorts close. Darkness and cold take over. April and November are particularly good for bargains.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="6">
+		<name>Chile</name>
+		<image>image/6.jpg</image>
+		<continent>South America</continent>
+		<capital>Santiago</capital>
+		<population>17,200,000</population>
+		<area>756,102 sq km</area>
+		<official-language>Spanish</official-language>
+		<attractions>
+			<attraction>
+				<name>Santiago’s Barrio Bellas Artes:</name>
+				<description>The name of this riverside neighborhood in central Santiago – Barrio Bellas Artes (Beautiful Art) – says it all. Fans of the fine arts can spend the day admiring Chilean works at the Museo Nacional de Bellas Artes and the Museo de Artes Comtemporaneo, both housed in the stately Palacio de Bellas Artes, before checking out edgy modern photography and sculpture at the nearby Museo de Artes Visuales. Along the way, take a break at one of several sidewalk cafes along the cobblestoned pedestrian streets.</description>
+			</attraction>
+			<attraction>
+				<name>Parques Nacional Torres del Paine:</name>
+				<description>Soaring almost vertically more than 2000m above the Patagonian steppe, the granite pillars of Torres del Paine (Towers of Paine) dominate the landscape of what may be South America’s finest national park. Hike through howling steppe and winding forests to behold these holiest-of-holy granite spires. Las Torres may be the main attraction, but this vast wilderness has more to offer. Ice trek the sculpted surface of Glacier Grey, kayak the calm Rio Serrano or ascend John Gardner Pass for gaping views of the southern ice field.</description>
+			</attraction>
+			<attraction>
+				<name>Climbing Volcan Villarrica:</name>
+				<description>Few things are as menacing as a growling volcano, especially an eye-to-eye encounter from the crater’s edge. That’s exactly the sort of spectacular confrontation you volunteer for the rewarding climb to the summit of Volcan Villarrica. Nothing quite prepares you for rounding the snow-caped edge of a 2847m sulfur-spewing menace. Then the snow-toboggan slide back down the mountain ensures heart rates remain on overdrive. But don’t worry – it hasn’t erupted since 1984.</description>
+			</attraction>
+			<attraction>
+				<name>Churches of Chiloe:</name>
+				<description>No matter how many European Cathedrals, Buddhist monasteries or Islamic mosques you’ve seen, the cluster of 17th- and 18th-century wooden churches that make up Chloe’s Unesco World Heritage side will be unlike any previously encountered. Each an architectural marvel marrying European and indigenous design, boasting unorthodox colors and construction, these cathedrals were built by Jesuit missionaries working to convert pagans to the papacy. Their survival mirrors the Chilote people’s own uncanny resilience.</description>
+			</attraction>
+			<attraction>
+				<name>Colchagua Valley Wine Tasting:</name>
+				<description>Anyone who’s tasted Chilean wine is already familiar with the charms of the Colchagua Valley, whether or not they’re aware of it. The bright sunshine and rich soil of Chile’s best established wine region, located several hours south of Santiago, is responsible for some of the richest Cabernet Sauvignon in South America. Taste this famous vino straight from the barrels at wineries like the posh Lapostolle, the old fashion Viu Manent, or the up-and-coming Emiliana, an organic vineyard employing innovative biodynamic growing techniques.</description>
+			</attraction>
+			<attraction>
+				<name>Easter Island:</name>
+				<description>The strikingly enigmatic moai (statues) are the most pervasive image of Easter Island (Rapa Nui). Dotted all around the island, these massive carved figures stand on stone platforms, like colossal puppets on a supernatural stages. Anakena Beach, Easter Island’s stunning white-sand playground sandwiched between sparkling turquoise sea and coconut goves is a special place to see these unique archaeological sites.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Mate:</name>
+				<description>A type of tea popular in Patagonia and made from the dried leaves of the yerba mate.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pasteles:</name>
+				<description>Find these heartly baked casseroles, a traditional specially made with choclo (corn), carne (meat), jaiva (crab) or papas (potatoes), in small towns and at family tables.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pisco:</name>
+				<description>The grape brandy is mixed with fresh lemon juice and sugar to make the famous pisco sour cocktail.</description>
+			</cuisine>
+			<cuisine>
+				<name>Seafood:</name>
+				<description>Chile’s long coastline means a bounty of fabulously fresh pescados (fish) and mariscos (shellfish) used in soups, stews, and ceviche (marinated raw seafood).</description>
+			</cuisine>
+			<cuisine>
+				<name>Wine:</name>
+				<description>Chile’s wine regions are rightfully world-famous; one varietal to try is Camenere, a rich red that originated in Bordeaux but is now produced only here.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+				<time>Nov-Feb:</time>
+				<reason>Patagonia is best December to February. Beaches throng with crowds from late December through January.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Sep-Nov and Mar-May</time>
+						<reason>Good times to visit Santiago. The Lake District is pleasant; April’s fall fo9liage in the south. Wine country has its grape harvests and wine festivals (March).</reason>
+					</other>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>A good time to visit the north. Services are few on Carretera Austral, and mountain passes can be blocked by snow. Accommodation busy in July during winter vacation.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="7">
+		<name>Croatia</name>
+		<image>image/7.jpg</image>
+		<continent>Europe</continent>
+		<capital>Zagreb</capital>
+		<population>4,400,000</population>
+		<area>56,538 sq km</area>
+		<official-language>Croatian</official-language>
+		<attractions>
+			<attraction>
+				<name>Plitvice Lakes National Park:</name>
+				<description>A turquoise ribbon of crystal water and gushing waterfalls in the forested heart of Continental Croatia, Plitvice Lakes National Park is an awesome sight. There are dozens of lakes from 4km-long Kozjak to reed-fringe ponds – all in an incredible hue that’s a product of the karst terrain. Travertine expanses covered with mossy plants divide the lakes, while boardwalks allow you to step right over this exquisite water world. Follow hiking trails through beech, spruce, fir and pine trees to escape the crowds on the lake shore.</description>
+			</attraction>
+			<attraction>
+				<name>Dubrovnik:</name>
+				<description>Croatia’s most popular attraction. Dubrovnik is a Unesco World Heritage site for a very good reason. This immense walled city was relentlessly shelled during Croatia’s 1990s Homeland War. Now, its mighty walls, monasteries, medieval churches, graceful squares and fascinating residential quarters all look magnificent again. For an unrivalled perspective of this Adriatic pearl, we recommend you first take the cable car up to Mount Srd, then get up close to the city by walking Dubrovnik’s walls, as history unfolds from the battlements.</description>
+			</attraction>
+			<attraction>
+				<name>Windsurfing in Bol:</name>
+				<description>Bol is home of the illustrious Zlatni Rat beach, with its tongue-like shape and golden pebbles. The town is a favorite among windsurfers: the channel between the islands op Brac and Hvar provides ideal wind conditions, thanks to the westerly maestral that typically blows between May and late September. The wind picks up slowly in the morning, an excellent time for beginners to hit the waves. By afternoon, the winds are very strong, perfect for those looking to get a real-deal adrenalin kick.</description>
+			</attraction>
+			<attraction>
+				<name>Party-Happy Hvar:</name>
+				<description>Come high summer, there’s not better place to get your groove on than Hvar Town. Gorgeous tanned people descend from their yatchs in droves for round-the-clock fun on this glam isle. With beach parties as the sun drops below the horizon far out in the Adriatic, designer coktails sipped seaside to fresh house tunes spun by DJs, and full-moon beach parties, Hvar caters to a well-dressed, party-happy crowd. Plus there’s Hvar beyond the party scene, with its gorgeous interior largely uncharted by tourist crowds.</description>
+			</attraction>
+			<attraction>
+				<name>Hiking and Climbing Paklenica:</name>
+				<description>It’s some sight. The extraordinary Paklenica National Park is best viewed from the northern coast of Pag Island, giving you an appreciation of how steeply the Velebit mountains rear up from the shore. Two great canyons cut into these majestic mountains, forming a natural trail of hikers up to the high alpine peaks of Vaganski vrh and Babin vrh. For those craving more adventure. Paklenica is also Croatia’s premier rock-climbing center, with hundreds of spectacular routes criss-crossing the park.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Beer:</name>
+				<description>Two top types of Croatian pivo (beer) are Zagreb’s Ozujsko and Karlovacko from Karlovac.</description>
+			</cuisine>
+			<cuisine>
+				<name>Burek:</name>
+				<description>Pastry stuffed with ground meat, spinach or cheese.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kava:</name>
+				<description>A strongly brewed espresso-style coffee that is served in tiny cups.</description>
+			</cuisine>
+			<cuisine>
+				<name>Manestra:</name>
+				<description>A thick vegetable-and-bean soup similar to minestrone.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pljeskavica:</name>
+				<description>An ex-Yugo version of a hamburger.</description>
+			</cuisine>
+			<cuisine>
+				<name>Rakjia:</name>
+				<description>Strong Croatian brandy comes in different flavours, from plum to honey.</description>
+			</cuisine>
+			<cuisine>
+				<name>Raznjici:</name>
+				<description>Small chunks of pork grilled on a skewer.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>May – Jun and Sep:</time>
+					<reason>The coast is gorgeous, the Adriatic is warm enough for swimming, the crowds are spare and prices are lower. In spring and early summer, the steady maestral wind makes sailing great.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jul and Aug:</time>
+						<reason>Peak season brings the best weather. Hvar Island gets the most sun, followed by Split, Korcula Island and Dubrovnik. Prices are at their highest and coastal destinations at their busiest.</reason>
+					</other>
+					<other>
+						<time>Oct-Apr:</time>
+						<reason>Winters in continental Croatia are cold and prices are low. Southeasterly winds produce heavy cloud cover; northeasterly gusts of dry air blow clouds away.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="8">
+		<name>Denmark</name>
+		<image>image/8.jpg</image>
+		<continent>Europe</continent>
+		<capital>Copenhagen</capital>
+		<population>5,600,000</population>
+		<area>43,094 sq km</area>
+		<official-language>Danish</official-language>
+		<attractions>
+			<attraction>
+				<name>Copenhagen:</name>
+				<description>You may find it hard to suppress your envy for residents of Scandinavia’s coolest capital. While this 850 year-old harbor town retains much of its historic good looks (think copper spires, cobbled squares and pastel-colored gabled abodes), the focus here is on the innovative, Denmark’s high-achieving capital is home to thriving design scene, a futuristic metro system, and clean, green development. Its streets are awash with effortlessly hip shops, cafes and bars; world-class museums and art collections; brave new architecture; and a decent helping of Michelin-starred restaurants.</description>
+			</attraction>
+			<attraction>
+				<name>Legoland:</name>
+				<description>’The Happiest Place on Earth’? Disneyland may lay claim to the slogan, but Legoland, though considered smaller, could be a contender. This is, after all, a theme park celebrating the ‘toy of the century’ (as adjudged by Fortune magazine in 2000) in the country in which it was invented, Denmark, ‘the world’s happiest nation’ (according to a Gallup World Poll). So0 you’ve got to believe Legoland will be something special – and it is. It’s Denmark’s most-visited tourist attraction (beyond Copenhagen), and it’s just one of dozens of family-friendly amusement parks dotted around the country.</description>
+			</attraction>
+			<attraction>
+				<name>Kronborg Slot:</name>
+				<description>Something rotten in the state of Denmark? Not at this fabulous 16th-century castle in Helsinor, made famous as th Elsinore Castle of Shakespeare’s Hamlet. Kronborg’s primary function was not as royal residence but rather as a grandiose toll house, wresting taxes from ships passing through the narrow Oresund between Denmark and Sweden. The fact that Hamlet, Prince of Denmark, was a fictional character hasn’t deterred legions of sightseers from visiting the site.</description>
+			</attraction>
+			<attraction>
+				<name>Aarhus:</name>
+				<description>Always the bridesmaid, never the bride, Aarhus labors in the shadows of Copenhagen in terms of tourist appeal, but this is a terrific city in which to spend a couple of days. It has a superb dining scene, thriving nightlife (much of it catering to the large student population), picturesque woodland trails and beaches along the city outskirts, and one of the country’s finest art museums, turning heads thanks to the whimsical multicolored walkway on tis roof.</description>
+			</attraction>
+			<attraction>
+				<name>Skagen:</name>
+				<description>Skagen is an enchanteing place, both bracing and beautiful. It lies at Denmark’s northern tip and acts as a magnet for much of the population each summer, when the town is full to capacity yet skill manages to provide plenty of charm. In the late 19th century artist flocked here, infatuated with the impact of the radiant light on the rugged landscape. Now tourists flock to enjoy the output of the ‘Skagen school’ artists, soak up that luminous lught, devour the plentiful seafood, and laze on the fine sandy beaches.</description>
+			</attraction>
+			<attraction>
+				<name>Bornholm:</name>
+				<description>Bornholm is a Baltic beauty, a Danish island lying some 200km, east of the mainland (located closer to Germany and Sweden than to the rest of Denmark). This magical island holds a special place in the hearts of most Danes, and is beloved for its plentiful sunshine, glorious sandy beaches, endless cycle paths iconic rundkiker (round churches), artistic communities, fish smokehouses and idyllic thatched villages. If that’s not enough to lure you, the island is developing a reputation for outstanding restaurants and local edibles.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Akvavit:</name>
+				<description>Denmark’s nest-loved spirit is caraway-spiced akvavit, drunk straight down as a shot, followed by a chaser of ol (beer).</description>
+			</cuisine>
+			<cuisine>
+				<name>Beer:</name>
+				<description>Carlsberg may dominate, but there’s an expanding battalion of microbreweries.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kanelsneg:</name>
+				<description>A calorific delight, the ‘cinnamon snail’ is a sweet, buttery pastry, sometimes laced with chocolate.</description>
+			</cuisine>
+			<cuisine>
+				<name>New Nordic flavors:</name>
+				<description>The celebrated culinary movement that passionately embraces local and seasonal produce.</description>
+			</cuisine>
+			<cuisine>
+				<name>Slid</name>
+				<description>Smoked, cured, pickled or fried, herring is a local staple and best washed down with generous serves of akvavit.</description>
+			</cuisine>
+			<cuisine>
+				<name>Smorrebrod:</name>
+				<description>Rye bread topped with anything form beer tartar to egg and shrimp, the opsen sandwich os Denmark’s most famous culinary export.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>May – Jun and Sep:</time>
+					<reason>A good time to trave, with generally mild weather and fewer crowds. Spring offers local produce, flowers and a few festivals. Autumn has golden landscapes and cozy night.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jul and Aug:</time>
+						<reason>Long daylight hours, with A-list concerts, festivals and theme parks in full swing. Busy camping grounds beaches, sights and transport. Accommodation prices peak.</reason>
+					</other>
+					<other>
+						<time>Oct-Apr:</time>
+						<reason>Cool and wet with short daylight hours but plenty of hyggy (coziness). Big cities have Christmas lights and ice-skating rinks. Reduced hours for sights: outdoor attractions closed.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="9">
+		<name>East Timor</name>
+		<image>image/9.jpg</image>
+		<continent>Asia</continent>
+		<capital>Dili</capital>
+		<population>1,200,000 </population>
+		<area>14,874 sq km</area>
+		<official-language>Tetun, Portugese</official-language>
+		<attractions>
+			<attraction>
+				<name>Maubise:</name>
+				<description>Wake up in chilly Maubise, 70 km from Dili, and watch clouds rising, uncovering the village below, with coffee plantations and misty valleys giving way to views of the coast.</description>
+			</attraction>
+			<attraction>
+				<name>Go diving in Dili:</name>
+				<description>Enjoy being one of the few cities in the world where the reef is just steps away from the urban center. The reef fringing the entire north coast of Timor-Leste provides spectacular diving and snorkeling. Many sites, including the legendary K41 east of town, are easily accessed by walking in from the beach, with dramatic drop-offs just 10m offshore in parts.</description>
+			</attraction>
+			<attraction>
+				<name>Oecussi:</name>
+				<description>The remote enclave of Oecussi is a Cinderella-in-waiting. Surrounded bon all sides by Indonesian West Timor, Oecussi can be tricky to get to. But if you make the journey, you’ll be rewarded with long stretches of beach and reef, some of the most beautiful tais (woven cloth) in country and ppols of hot mud bubbling in its southernmost region. Relax into the slow pace of this beautiful and secluded district.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Seafood:</name>
+				<description>Dili’s fresh fish, lobster and prawns will make your mouth water. Sure, there are a few fine-dining places that serve up amazing seafood in Asia,, Portuguese and African flavor, but nothing beats the nightly charcoal-grill food stalls on the Av de Portugal beachfront, where the seafood is simple and fresh.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+				<time>May – Nov:</time>
+				<reason>Good weather and great for diving with no slit-laden rivers flowing into the sea.</reason>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="10">
+		<name>Egypt</name>
+		<image>image/10.jpg</image>
+		<continent>Africa</continent>
+		<capital>Cairo</capital>
+		<population>85,300,000</population>
+		<area>1,000,000 sq km</area>
+		<official-language>Arabic</official-language>
+		<attractions>
+			<attraction>
+				<name>Pyramids of Giza:</name>
+				<description>Towering over the urban sprawl of Cairo and the desert plains beyond. The Pyramids of Giza and the Sphinx are at the top of every traveller’s itinerary. .for over 400 years, the extraordinary shape, impeccable geometry and sheer bulk of the Giza Pyramids have invited the obvious question: ‘How were we built, and why?’. Centuries of researches have given us parts of the answer. We know they were massive tombs constructed on the orders of the pharaohs by teams of workers tens-of-thousands strong. No trip to Egypt is complete without a photo of you in front of the last surviving ancient wonder of the world.</description>
+			</attraction>
+			<attraction>
+				<name>Luxor:</name>
+				<description>With the greatest concentration of ancient Egyptian monuments anywhere in Egypt, Luxor rewards time spent here. You can spend days or weeks around this town, walking through the columned halls of the great temples on the east bank of the Nile, such as the Ramesseum, or climbing down into the tombs of Pharaohs in the Valley of the Kings on the west bank. Time spent watching the sun rise over the Nile or set behind the Theban hills are some of Egypt’s unforgettable moments.</description>
+			</attraction>
+			<attraction>
+				<name>Cruising the Nile:</name>
+				<description>A cruise on the Nile River has always ranked among the world’s most exciting and most romantic travel experiences. The Nile is Egypt’s lifeline, the artery that runs through the country, from south to north. Only by setting adrift on it can you appreciate its important and its beauty, and more practically, only by boat can you see some archaeological sites as they were meant to be seen. Sailing is the slowest and most relaxing way to go, but even from the deck of a multistory floating hotel you’re likely to glimpse the magic.</description>
+			</attraction>
+			<attraction>
+				<name>Mt Sinai:</name>
+				<description>It may not be the highest of Sinai’s craggy peaks, but Mt Sinai is the peninsula’s most sacred. A place of pilgrimage for Jews, Christians and Muslims alike, the summit affords the magnificent spectacle of light washing over the sea of surrounding mountaintops. Down below, tucked into the mountain’s base, is St Katherine’s Monastery. Its sturdy Byzantine fortifications are built over the spot where Moses is believed to have witnessed the burning bush.</description>
+			</attraction>
+			<attraction>
+				<name>Dahab:</name>
+				<description>Laid-back Dahb, a midsized town near the southern tip of the Sinai, is Egypt’s version of a chill pill, the place for ruin-fatigued travelers to cast off the history lessons and recuperate in one of the small-scale beachfront hotels. Once your batteries have recharged, dive into Dahab’s famous underwater world or organize some dessert adventure fun. Though you may find you’re also seduced by the joy of doing nothing for a few more days.</description>
+			</attraction>
+			<attraction>
+				<name>Desert Safaris:</name>
+				<description>Whether you travel by 4WD, camel or foot, for a couple of hours or a couple of weeks, you’ll be able to taste the simple beauty and isolation of wildest Egypt. The highlight of an excursion in Egypt’s Western Desert include camping among the surreal formations of the White Desert, crossing the mesmerizing dunes of the Great Sand Sea and heading deep into the desert to live out English Patient fantasies at the remote Gilf Kebir.</description>
+			</attraction>
+			<attraction>
+				<name>Egyptain Museum:</name>
+				<description>The scale of the Egyptian Museum is simply overwhelming. More than a hundred rooms are packed to the rafters with some of the most fascinating treasures excavated in Egypt: glittering gold jewelry, King T’s socks and mummies of the greatest pharaohs, plus their favorite pets. Don’t push yourself to see it all, and do hire a guide for an hour or two to unlock some of the storehouse’s secrets.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Fuul:</name>
+				<description>The national dish is unassuming peasant dish of slow-cooked fava beans with garlic, parsley, olive, lemon, salt, black pepper and cumin.</description>
+			</cuisine>
+			<cuisine>
+				<name>Fiteer:</name>
+				<description>The Egyptian pizza has a thin, flaky pastry base, and is topped with salty haloumi cheese and olives, or comes sweet with jam, coconut and raisins.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kushari:</name>
+				<description>A vegetarian’s best friend: noodles, ricem black lentils, chickpeas and fried onions, with a tangry tomato sauce. Many kushari shops also sell makaroneh bi-lahm, a baked pasta-and-lamb casserole.</description>
+			</cuisine>
+			<cuisine>
+				<name>Shwarma:</name>
+				<description>Strips of lamb or chicken sliced from a vertical spit, sizzled on a hot plate with chopped tomatoes and garnish, and then stuffed into shammy bread.</description>
+			</cuisine>
+			<cuisine>
+				<name>Ta’amiyya:</name>
+				<description>Ground board beans and spices rolled into patties and deep fried, often stuffed in shammy bread as a sandwich.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Oct-Feb:</time>
+					<reason>Egypt’s ‘winter’ is largely sunny and warm, with very occasional rain (more frequent on the Mediterranean). Be prepared for real chill in unheated hotels, especially in damp Alexandria.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Mar-Mau, Sep-Oct:</time>
+						<reason>Spring can have dust storms disrupting flights. Heat can extend into October, when crowds are lighter. Warm seas and no crowds at Mediterranean spots.</reason>
+					</other>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>Scorching summer sun means only the hardiest sightseers visit Upper Egypt. Avoid the Western Desert. High season on the Mediterranean coast.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="11">
+		<name>Ethiopia</name>
+		<image>image/11.jpg</image>
+		<continent>Africa</continent>
+		<capital>Addis Ababa</capital>
+		<population>93,900,000</population>
+		<area>1,100,000 sq km</area>
+		<official-language>Oromo, Amharic, Somali, Tigrayan, Arabic, English</official-language>
+		<attractions>
+			<attraction>
+				<name>Harar:</name>
+				<description>By far the most intriguing city in Ethiopia, Harar is a joy to explore. Getting lost in its crooked alleyways is just as fascinating as visiting the many museums, markets and traditional homes packed inside the old city walls. And then there are the hyenas. Two families feed them by hand, and let you do it, too, but these large carnivores wander throughout the city and you may just bump into one while walking about at night. Thankfully, they find enough scraps of meat so that they have no interest in people.</description>
+			</attraction>
+			<attraction>
+				<name>Labibela:</name>
+				<description>Seeing the rock-hewn churches of Labibela on TV and in books is not enough to prepare you for the experience of walking inside them for real. Carved entirely out of rock, the still-functioning churches are large, artistically refined and mostly in excellent states of preservation. One of the many local legends about the site’s origin states that the king wanted to make a new Jerusalem so pilgrims didn’t have to make the long, dangerous journey to the real one. An early morning visit, when locals come to seek blessings and inspiration, shows their mystical side.</description>
+			</attraction>
+			<attraction>
+				<name>Bale Mountains:</name>
+				<description>The Ethiopian wolf is the rarest candid in the world, but on the 4000m-high Sanetti Plateau in the Bale Mountains you are almost guaranteed to see them. And when you’re not watching wolves hunt giant mole-rats, your eyes will be drawn to the fairy-tale forest draped in ‘old main’s beard’ and the sheer drop of the Harenna Escarpment. Though the mountains are prime trekking territory there’s no need to step out of your car to enjoy the since you can drive right through on the highest all-weather road in Africa.</description>
+			</attraction>
+			<attraction>
+				<name>Simien Mountains:</name>
+				<description>With deep canyons and bizarrely jagged mountain sculpting scenery so awesome that if you saw it in a painting you might question whether it was real or not, the Simien Mountains are one of the wonders of the natural world. They’re an important preserve for some of Ethiopia’s endemic wildlife, and sitting amid a troop of tame gelada monkeys at Sankaber is an experience you’ll never forget. This is terrific trekking territory, but also easily accessible by car.</description>
+			</attraction>
+			<attraction>
+				<name>Rock-Hewn Churches of Tigray:</name>
+				<description>Hidden like jewels in the arid Tigrayan countryside, the old rock-hewn churches of Tigary will wow you. Partially carved and partially constructed, most sit on remote cliffsides requiring long walks (and sometimes steep climbs) and the sense of discovery upon arrival is a bug part of their appeal. But they also delight on their artistic and historic merits alone.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<description>Ethiopian food and the myriad ways in which it’s prepared Is not only some of the most diverse on the continent, but also totally different to any other cuisine you ay have encountered. Plates, bowls and even utensils are replaced by injera, a one-of-a-kind pancake of countrywide proportion. Atop its rubbery confines sit delicious multicolored mounds of spicy kai wait (meat stews), tasty wat (vegetable curry) and even cubes of tere sega (raw meat). Eat up, but remember to leave some leftovers on the plate after a meal. Failing to do so is sometimes seen as inviting feminine. Ethiopia also has a well-founded claim to be the original home of coffee, and it continues to be ubiquitous across the country. An invitation to attend a coffee ceremony is a mark of friendship or respect, though it’s not an event for those in a hurry! At least three cups must be accepted, the third in particular is considered to bestow a blessing – it’s the berekha (blessing) cup.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Jan-Mar:</time>
+					<reason>Expect sunny skies and warm days. These months are good for wildlife watching. Ethiopia’s most colorful festivals, including Timkat and Leddet.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Oct-Dec:</time>
+						<reason>The country is green, skies are sunny and there are fewer visitors. Trekking during this time is particularly sublime. Good for birding.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="12">
+		<name>Finland</name>
+		<image>image/12.jpg</image>
+		<continent>Europe</continent>
+		<capital>Helsinki</capital>
+		<population>5,100,000</population>
+		<area>338,145 sq km</area>
+		<official-language>Finnish, Swedish</official-language>
+		<attractions>
+			<attraction>
+				<name>Helsinki:</name>
+				<description>Though Helsinki can seem like a younger sibling compared to other Nordic capitals, it’s the one that went to art school, scorns pop music, is working in a cutting-edge design studio and hangs out with friends who like black and plenty of piercings. The city’s design shops are legendary and its music and pub scene kicking. On the other hand, much of what is loveable in Helsinki is older: it’s understated yet glorious art nouveau buildings, the spacious elegance of it centenarian cafes, and the careful preservation of Finnish heritage in its dozens of museums.</description>
+			</attraction>
+			<attraction>
+				<name>Sledding and Snowmobiling, Lapland:</name>
+				<description>Fizzing over the snow behind a team of huskies under the low winter sun is tough to beat. Short jaunts are great, but overnight safaris give you time to feed and bond with your loveable dog and try out a wood-fired sauna in the middle of the winter wilderness. It’s no fairy-tale ride though; expect to eat some snow before you learn to control your team. You can enjoy similar trips on a snowmobile or behind reindeer.</description>
+			</attraction>
+			<attraction>
+				<name>Sami Culture, Inari:</name>
+				<description>Finland’s indigenous northerners have used technology to ease the arduous side of reindeer herding while maintaining an intimate knowledge of Lapland’s natural world. Their capital, Inari and the nearby Lemmenjoki National Park are the best places to begin to learn about Sami culture and traditions, starting at the marvelous Siida museum.</description>
+			</attraction>
+			<attraction>
+				<name>Traditional Sauna, Kuopio:</name>
+				<description>These days most Finns have saunas at home, but there are still a few of the old public ones left. They smell of old pine, tar shampoo and long tradition, with birch whisks and no-nonsense scrubdown available as extras. Weathered Finns faces cool down on the street outside, loins wrapped in towel and hand wrapped around a cold beer. Kuopio’s old-style smoke sauna takes a day to prepare and offers a memorable rural experience, with a cooling-off lake to jump into right alongside.</description>
+			</attraction>
+			<attraction>
+				<name>Lakeland:</name>
+				<description>The part of Finland seems to have more water than land, so it’d be a crime not to get out on it. You can take three days to paddle the family-friendly Oravareitti (Squirrel Route) or head out into Lolovesi and Linnansaari national parks to meet freshwater seals. Tired arms? Historic late boats still ply what were once important transport arteries; head out from any town on short cruises, or make a day of it and head from Savonlinna right up to Luopio or across Finland’s largest lake, Saimaa.</description>
+			</attraction>
+			<attraction>
+				<name>Cycling, Aland Archipelago:</name>
+				<description>Charming Aland is best explored by bicycle: you’ll appreciate it understated attractions all the more if you’ve used pedal-power to reach them. Bridges and ferries link many of its 600 islands, and well-signposted routes take you off ‘main roads’ down winding lanes and forestry tracks. Set aside your bicycle whenever the mood takes you, to pick wild strawberries, wander castle ruins, sunbathes on a slab of red granite, visit a medieval church.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Alcoholic drinks:</name>
+				<description>Beer is a staple. Finns also love dissolving things in vodka; try a shot of salmiakkikossu (salty-liquorice flavored) or fisu (Fisherman’s Friend-flavored).</description>
+			</cuisine>
+			<cuisine>
+				<name>Coffee:</name>
+				<description>To fit in, eight or nine cups a day is about right, best accompanied with a cardamom-flavored pastry.</description>
+			</cuisine>
+			<cuisine>
+				<name>Fish:</name>
+				<description>Salmon is ubiquitous; tasty lake fishes include arctic char, pike-perch and scrumptious friend muikki (vendace).</description>
+			</cuisine>
+			<cuisine>
+				<name>Meat:</name>
+				<description>Reindeer is a staple up north, elk is commonly eaten, and bear is also seasonally available.</description>
+			</cuisine>
+			<cuisine>
+				<name>Markets:</name>
+				<description>The kauppahalli (market hall) is where to go for a stunning array of produce. In summer, stalls at the kaupatori (market square) sell delicious fresh vegetables and fruit.</description>
+			</cuisine>
+			<cuisine>
+				<name>Seasonal berries:</name>
+				<description>Look out for cloudberries and lingonberries from Lapland, and marker stalls selling blueberries, strawberries and raspberries.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Jul:</time>
+					<reason>Everlasting daylight and countless festivals. Attractions and lodgings are open. Hotels are cheaper.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jun and Aug:</time>
+						<reason>Long days with decent temperatures. Most attractions are open, but not as crowded as in July. Fewer insects up north.</reason>
+					</other>
+					<other>
+						<time>Sep-May:</time>
+						<reason>Short, cool or cold days. Outside the cities, most attractions are closed. December to April is busy for winter sports; September is busy in northern hiking areas.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="13">
+		<name>Greece</name>
+		<image>image/13.jpg</image>
+		<continent>Europe</continent>
+		<capital>Athens</capital>
+		<population>10,800,000</population>
+		<area>131,957 sq km</area>
+		<official-language>Greek</official-language>
+		<attractions>
+			<attraction>
+				<name>The Acropolis, Athens:</name>
+				<description>There’s a reason the Acropolis remains the quintessential landmark of Western civilization – it is spectacular. Whether experienced during an early morning stroll up its flanks or from a dinnertime terrace with the Parthenon all lit up and glorious, the Acropolis embodies a harmony, power and beauty that speak to all generations. Look beyond the Parthenon and you’ll find more intimate spots such as the exquisite, tiny Temple of Athena Nike, while the Acropolis Museum cleverly showcases the ethereal grace of the Acropolis’ surviving treasures.</description>
+			</attraction>
+			<attraction>
+				<name>Meteora:</name>
+				<description>You’re not likely to forget the first moment the magnificent Meteora comes into view – soaring pillars of rock that jut heavenward, and a handful of monasteries at the summit (some dating from the 14th century). The rope ladders that once enabled the monks to reach the top have long been replaced by steps carved into the rock. Today, these spectacular stones towers beckon adventurous rock climbers from around the world.</description>
+			</attraction>
+			<attraction>
+				<name>Ancient Delphi:</name>
+				<description>Arrive early to catch the magic of the sun’s ray pouring over the Sanctuary of Athena Pronea at Delphi, the center of the ancient Greek world. Only three columns remain of the magnificent sanctuary, but that’s enough to let your imagination soar. Nearby, the Sacred Way meanders past the Temple of Apollo where the Delphic Oracle uttered prophecies that sent armies to battles and made lovers swoon.</description>
+			</attraction>
+			<attraction>
+				<name>Athens:</name>
+				<description>Life in Athens is a magnificent mash-up of the ancient and the modern. Beneath the majestic facades of venerable landmarks. The city teems with life and creativity. And Athenians love to get out and enjoy it all. Gallerias and clubs hold the exhibitions, performances and installations of the city’s booming arts scene. Trendy restaurants and humble tavernas rustle up fine, fine fare. Ubiquitous cafes fill with stylin’ locals, and moods run from punk rock to haute couture. Discos and bars abound and swing deep into the night.</description>
+			</attraction>
+			<attraction>
+				<name>Santorini Sunsets:</name>
+				<description>There’s more to Santorini than sunsets, but this remarkable island, shaped by the fire of prehistoric eruptions, has made the celebratory sunsets its own. On summer evenings the clifftop towns of Fira and Oia are packed with visitors awed by the vast blood-red canvas of the cliff face as the sun struts its stuff. You can catch the sunset without the crowds from almost anywhere along the cliff edge. And if you miss sundown, you can always face east at first light for some fairly stunning sunrises too..</description>
+			</attraction>
+			<attraction>
+				<name>Rhodes’ Old Town:</name>
+				<description>Getting lost in Rhodes’ Old Town is a must. Away from the crowds, meander down twisting, cobbled alleyways with archways above and squares opening up ahead. In these hidden corners the imagination takes off with flights of medieval fancy. Explore the ancient Knights; Quarter, the old Jewish neighborhood or the Turkish Quarter. Hear traditional live music in tiny tavernas or dine on fresh seafood at atmospheric outdoor restaurants. Wander along the top of the city walls, with the sea on one side and a bird’s-eye view into this living museum.</description>
+			</attraction>
+			<attraction>
+				<name>Samaria Gorge:</name>
+				<description>The gaping gorge of Samaria, starting at Omalos and running down through an ancient riverbed to the Libyan Sea, is the most-trod canyon in Crete – and with good reason. The magnificent gorge is home to varied wildlife, soaring birds of prey and a dazzling array of wildflowers in spring. It’s a full day’s walk (about six hours down), and you’ll have to start early, but it certainly builds character. To get more solitude, try less-known gorges such as Imbros Gorge, which runs roughly parallel to Samaria.</description>
+			</attraction>
+			<attraction>
+				<name>Rhodes’ Old Town:</name>
+				<description>Getting lost in Rhodes’ Old Town is a must. Away from the crowds, meander down twisting, cobbled alleyways with archways above and squares opening up ahead. In these hidden corners the imagination takes off with flights of medieval fancy. Explore the ancient Knights; Quarter, the old Jewish neighborhood or the Turkish Quarter. Hear traditional live music in tiny tavernas or dine on fresh seafood at atmospheric outdoor restaurants. Wander along the top of the city walls, with the sea on one side and a bird’s-eye view into this living museum.</description>
+			</attraction>
+			<attraction>
+				<name>Colorful Thessaliniki:</name>
+				<description>Stylish Thessaloniki remains northern Greece’s liveliest town, thanks to its universities cultural scene, arts and nightlife. There’s little hassle and getting about by foot is easy. Take the city in at dusk from the viewing station up by the Byzantine walls in the old quarter, known as Ano Poli (Upper Town). It’s a neighborhood full of colorful, winding little streets marked by white-plastered houses, lazy cats and Byzantine churches.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Greek coffee:</name>
+				<description>A legacy of Ottoman rule, Greek coffee should be tried at least once.</description>
+			</cuisine>
+			<cuisine>
+				<name>Greek salad:</name>
+				<description>Tomatoes, cucumber, onion, feta and olives.</description>
+			</cuisine>
+			<cuisine>
+				<name>Grilled octopus:</name>
+				<description>All the better with a glass of ouzo.</description>
+			</cuisine>
+			<cuisine>
+				<name>Gyros pitta:</name>
+				<description>The ultimate in cheap eats. Pork or chicken shaved from a revolving stack of sizzling meat is wrapped in pitta bread with tomato, onion, friend potatoes and lashings of tzatziki (yogurt, cucumber and garlic).</description>
+			</cuisine>
+			<cuisine>
+				<name>Ouzo:</name>
+				<description>Sipped slowly, this legendary aniseed-flavored tipple turns a cloudy white when ice and water are added.</description>
+			</cuisine>
+			<cuisine>
+				<name>Raki:</name>
+				<description>Cretan fire water produced from grape skins.</description>
+			</cuisine>
+			<cuisine>
+				<name>Souvlaki:</name>
+				<description>Skewered meat, usually pork.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Apr and Sep:</time>
+					<reason>Accommodation prices can drop by 20%. Temperatures are milder than May- Aug. internal flights and ferries have reduced schedules. Few crowds.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>May-Aug:</time>
+						<reason>Everything is in full swing and transport is plentiful. Accommodation sometimes costs twice as much. Crowds and temperatures soar.</reason>
+					</other>
+					<other>
+						<time>Oct-Mar:</time>
+						<reason>Many hotels, sights and restaurants shut, especially on islands. Accommodation costs up to 50% less than during high season. Ferry schedules are skeletal.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="14">
+		<name>Guatemala</name>
+		<image>image/14.jpg</image>
+		<continent>North America</continent>
+		<capital>Guatemala City</capital>
+		<population>14,400,000</population>
+		<area>108,889 sq km</area>
+		<official-language>Spanish</official-language>
+		<attractions>
+			<attraction>
+				<name>Tikal:</name>
+				<description>The remarkably restored temples that stand in this partially cleared corner of the jungle astonish for both their monumental size and architectural brilliance, as an early morning arrival at the Gran Plaza proves. Occupied for some 16 centuries, it’s an amazing testament to the cultural and artistic heights scaled by this jungle civilization. A highlight is the helicopter-like vantage from towering Temple IV on the west edge of the precinct. Equally compelling is the abundance of wildlife, which can be appreciated strolling ancient causeways between ceremonial centers tread softly so you’re more likely to spot spider monkeys, agoutis, foxes and oscellated turkeys.</description>
+			</attraction>
+			<attraction>
+				<name>Antigua:</name>
+				<description>With mammoth volcanic peaks and coffee-covered slopes as a backdrop for the scattered remnants of Spanish occupation, the formal capital of Guatemala is a place of rare beauty, historical significance and vibrant culture. Consequently, it makes an appealing setting for learning Spanish and year on year a globally varied population come here to study at the city’s quality institutes. This influx fuels a surprisingly sophisticated culinary panorama and bubbly nightlife scene.</description>
+			</attraction>
+			<attraction>
+				<name>Lago de Atitlan:</name>
+				<description>Possibly the single worthiest destination in Guatemala. Atitlan elicits poetic outburst from even the most seasoned traveler. Of volcanic origin, the alternately placid and turbulent lake is ringed by volcanoes and villages like Santiago Atitlan, with a thriving indigenous culture, and San Marcos, a haven for seekers who plug into the lake’s cosmic energy. And there are enough activities – paragliding from Santa Catarina Palopo, kayaking around Santa Cruz La Laguna or hiking the glorious lakeshore trails – to make a longer stay viable.</description>
+			</attraction>
+			<attraction>
+				<name>Rio Dulce:</name>
+				<description>The Rio Dulce (literally, sweet river) connects Guatemala’s largest lake with the Caribbean coast., and winding along it, through a steep-walled valley, surrounded by lush vegetation, birds call and the (very occasional) manatee is Guatemala’s classic, don’t-miss boat ride. This is no tourist cruise – the river is a way of life and a means of transportation around here – but you get to stop at a couple of places to visit river-dwelling communities and natural hot springs, making for a magical unforgettable experience.</description>
+			</attraction>
+			<attraction>
+				<name>Guatemala City:</name>
+				<description>Vibrant and raw, often confronting and occasionally surprising, the nation’s capital is very much a love it or leave it proposition. Many choose the latter – and as fast as they can – but those who hang around and look behind the drab architecture and scruffy edges find a city teeming with life. For culture vultures, find dinners, mall rats and live-music lovers, the capital has a buzz that’s unmatched in the rest of the country.</description>
+			</attraction>
+			<attraction>
+				<name>Quetzaltenango:</name>
+				<description>Quetzaltenango is a kinder, gentler urban experience than the capital, and its blend of mountain scenery, highlands indigenous life, handsome architecture and urban sophistication attracts outsider after an authentic slice of city life in Guatemala. Come here to study Spanish at the numerous language institutes, such as the well-regarded Celas Maya, or make it a base for excursions to high-altitude destinations such as Laguna Chicabal , a crater lake/Maya pilgrimage site, or Fuentes Georginas, a hot-springs resorts ensconced in a verdant valley.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Atole:</name>
+				<description>A hot gruel made with maize, milk, cinnamon and sugar.</description>
+			</cuisine>
+			<cuisine>
+				<name>Chile relleno:</name>
+				<description>Bell pepper stuffed with cheese meat, rice or other foods, dipped in egg whites, friend and baked in sauce.</description>
+			</cuisine>
+			<cuisine>
+				<name>Jocon:</name>
+				<description>Green stew of chicken or pork with green vegetables and herbs.</description>
+			</cuisine>
+			<cuisine>
+				<name>Licuado:</name>
+				<description>Milkshake made with fresh fruit, sugar, and milk or water.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pepian:</name>
+				<description>Chicken and vegetables in a piquant sesame and pumpkin seed sauce.</description>
+			</cuisine>
+			<cuisine>
+				<name>Tamal:</name>
+				<description>Corn dough stuffed with meat, beans, chilies or nothing at all, wrapped in banana leaf or corn husks and steamed.</description>
+			</cuisine>
+			<cuisine>
+				<name>Tapado:</name>
+				<description>A seafood, coconut milk and plantain casserole.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Oct-Nov:</time>
+					<reason>Rains begin to ease up, but October is peak hurricane season. Mild temperatures and clear days make this a good time to be traveling and hiking in the highlands.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Apr-Sep:</time>
+						<reason>Prices drop, crowds thin out at archaeological sites, and booking accommodation is rarely necessary. Daily afternoon rains can make traveling chilly in the highlands and muddy in the jungle.</reason>
+					</other>
+					<other>
+						<time>Dec-May:</time>
+						<reason>Around key times (Christmas, New Year, Easter) hotel prices are at their highest. Accommodation should be booked well in advance for Easter in Antigua.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="15">
+		<name>Hong Kong</name>
+		<image>image/15.jpg</image>
+		<continent>Asia</continent>
+		<capital>Hong Kong</capital>
+		<population>7,100,000</population>
+		<area>1,104 sq km</area>
+		<official-language>Cantonese, English</official-language>
+		<attractions>
+			<attraction>
+				<name>Star Ferry from Kowloon to Hong Kong Island:</name>
+				<description>A floating piece of Hong Kong heritage and a sightseeing bargain, the legendary Star Ferry was founded in 1880 and piles the calm waters of Victoria Harbor in the service of families, students, office-workers, boat buffs and tourists. At only $2.5, the 15-minute ride with views of skyscrapers marching up jungle-clad hills must be one of the world’s best-value cruises. While the vista is more dramatic when you’re Island-inbound, the art deco Kowloon pier, resembling a finger pointing at the Island, is arguably more charming.</description>
+			</attraction>
+			<attraction>
+				<name>The Peak:</name>
+				<description>Rising above the financial heart of Hong Kong Island, Victoria Peak offers superlative view of the city and the mountainous countryside beyond. Ride the hair-rising Peak Tram (in operation since 1888) to the cooler climes at the top as a teeming mass of moneyed skyscrapers and choked apartment blocks unfolds below. At dusk Victoria Harbor glitters like the Milky Way in a sci-fi movie poster as the lights come on in this astonishing metropolis. A view to die for!</description>
+			</attraction>
+			<attraction>
+				<name>Markets:</name>
+				<description>Mong Kok with its specialty markets is your best bet for a rewarding sprawl crawl. The mile-long Tung Choi St Market/Ladies’ Market has clothes ranging from ‘I love HK’ tees to granny swimwear and sexy lingerie; the flower market sells exotic seeds and gardening tools alongside fragrant florals; and the goldfish market showcases these exotic creatures in softly humming. UV-lit tanks. Complementing these are vertical markets such as a multistorey computer mall, and a mobile phone and gadget lover’s heaven.</description>
+			</attraction>
+			<attraction>
+				<name>Man Mo Temple:</name>
+				<description>Ditch the Soho watering holes and experience Chinese folk religiosity in this atmospheric 19th-century institution. Forever wreathed in thick sandalwood smoke from the slow-burning incense coils, the popular temple is dedicated to Man and Mo, the gods of literature and war. Formerly a cultural and political focal point for the Chinese community, the dimly lit space now commands a much bigger following beyond obedient students and assorted streets fighters, as the public come to perform age-old rites and have their fortunes told.</description>
+			</attraction>
+			<attraction>
+				<name>Wan Chai Dining:</name>
+				<description>If you were to hurl yourself, eye closed, into a random neighborhood eatery and expect to emerge smacking your lips, you’d stand the best chance if you were in Wan Chai. The district is home to a great many restaurants suiting a range of pocket sizes. Regional Chinese cooking, European cuisines, Asian kitchens, East-West fusion, classy, midrange, hole in the wall,.. just name your craving and head on down to the Wanch; you’re certain to find it there.</description>
+			</attraction>
+			<attraction>
+				<name>Happy alley Races:</name>
+				<description>Every Wednesday night the city horseracing track in Happy Valley comes alive, with eight electrifying races and an accompanying carnival of food and beer. You can try your luck at betting or simply enjoy the collective exhilaration and the thunder pf hooves. Races were first held there in the 19th century by European merchants who imported stocky stallions from Mongolia, which they rode themselves. Now there are races every week except in the sweltering months of July and August.</description>
+			</attraction>
+				<attraction>
+				<name>Hiking the Hong Kong Trail:</name>
+				<description>Right on the city doorstep, the Hong Kong Trail transport you into emerald hills, secluded woodland and lofty paths that afford sumptuous views of the rugged south and (eventually) glimpse of its wavy shore once you’ve tackled the formidable Dragon’s Back ridge. Starting from the Peak, the 50km route snakes across the entire length of Hong Kong Island, past picturesque reservoirs, WWII battlefields and cobalt bays. Spread over five country parks, this delightful trail invites both easy perambulations and harder hikes.</description>
+			</attraction>
+		</attractions>
+		<cuisines>
+			<cuisine>
+				<name>Cha Chaan Tang:</name>
+				<description>Tea cages are perhaps best-known for their Hong Kong-style ‘pantyhose’ milk tea – a strong brew made from a blend of several types of black tea with crushed egg shells thrown in for silkiness. It’s filtered through a fabric that hangs like a stocking, hence the name, and drunk with evaporated milk. ‘Pantyhose’ milk tea is sometimes mixed with three parts coffee to create the quintessential Hong Kong drink, a tea-coffee.</description>
+			</cuisine>
+			<cuisine>
+				<name>Dai Pai Dongs:</name>
+				<description>A dai pai dong is a food stall, hawker-style or built into a rickety hut crammed with tables and stools that sometimes spill out onto the pavement.</description>
+			</cuisine>
+			<cuisine>
+				<name>Dim Sum:</name>
+				<description>Dim sum are Cantonese tidbits consumed with tea for breakfast or lunch. The term literally means ‘to touch the heart’ and the act of eating dim sum is referred to as yum cha, meaning to ‘drink tea’. Each dish, often containing two to four morsels steamed in bamboo basket, is meant to be shared. In old-style dim sum places, just stop the waiter and choose something from the cart. Modern venues give you an order slip, but it’s almost always Chinese only.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Oct-Early Dec:</time>
+					<reason>With moderate temperatures and clear skies, this is the best time to visit.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jun-Aug:</time>
+						<reason>Hot, humid and rainy.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+    <country id="16">
+        <name>Iceland</name>
+		<image>image/16.jpg</image>
+        <continent>Europe</continent>
+        <capital>Reykjavik</capital>
+        <population>315,281</population>
+        <area>103,000 sq km</area>
+        <official-language>Icelandic</official-language>
+        <attractions>
+            <attraction>
+                <name>Northern Lights:</name>
+                <description>Everyone longs to glimpse the Northern Lights, the celestial kaleidoscope known for transforming winter nights into natural lava lamps. The lights, also known as aurora borealis, form when solar flares are drawn by the earth’s magnetic field towards the North Pole. What results are ethereal veils of green, white, violet or red light, shimmering and dancing in a display not unlike silent fireworks. Peak aurora sightings occur in the depth of winter, but look for the lights in clear, dark skies anytime between October and April.</description>
+            </attraction>
+            <attraction>
+                <name>The Blue Lagoon:</name>
+                <description>Iceland’s unofficial pastime is splashing around its surplus of geothermal water. There are ‘hot-pots’ everywhere – from downtown Reykjavik to the isolated peninsular tips of the Westfjords – and not only are they incredibly relaxing, they’re the great way to meet the local (and cure a mean hangover!). Everyone knows that blue Lagoon is the big cheese; its steaming pale-blue lagoon full of silica deposits sits conveniently close to Keflavik International Airport, making it the perfect sent-off before flying home, but for most it’s an easy day trip from Reykjavik.</description>
+            </attraction>
+            <attraction>
+                <name>Westfjords:</name>
+                <description>Iceland’s sweeping spectrum of superlative nature comes to a dramatic climax in the Westfjords. Sweeping beaches flank the southern coast, bird colonies around, fjordheads tower above and then plunge into the deep, and a network of ruddy roads twist throughout, adding an extra sense of adventure. The region’s uppermost peninsula, Hornstrandir, is the final frontier; the sea cliffs are perilous, the foxes are foxier, and hiking trails amble through pristine patches of wilderness that practically kiss the Arctic Circle.</description>
+            </attraction>
+            <attraction>
+                <name>Jokulsarlon:</name>
+                <description>A ghostly procession of luminous-blue icebergs drifts serenely through the 18-sq-km Jokulsarlon lagoon before floating out to sea. His surreal scene (handily, right next to the Ring Road) is a natural film set: in act, you might have seen it in Batman Begins and the James Bond film Die Another Day. The ice breaks off from Breidamerkurjokull glacier, an offshoot of the mighty Vatnajokull ice cap. Boat trips among the bergs are popular, or you can simply wander the lakeshore, scout for seals, ad exhaust your camera’s memory card.</description>
+            </attraction>
+            <attraction>
+                <name>Driving the Ring Road:</name>
+                <description>There’s no better way to explore Iceland to hire your own set of wheels and loop round Rte 1 – affectionately known as the Ring Road. The ovular strip of cement loops around the island in a clock-like fashion, passing through verdant dales ducked with tumbling chutes, haunting glacial lagoons with popcorn-like icebergs, desolate strands of sea coast and arid plains of parched lava fields. Don’t forget to take some of the detours – use the Ring Road as your main artery and hen follow the veins as they splinter off into the wilderness.</description>
+            </attraction>
+            <attraction>
+                <name>Reykjavik:</name>
+                <description>The world’s most northerly capital combines colorful buildings, quirky people, eye-popping design, wild nightlife and a capricious soul to devastating effect. Add a backdrop of snowtopped mountains, churning seas, air as cold and clean as frozen diamonds, and fiery nights under the midnight sun, and you’ll agree that there’s no better city in the world.</description>
+            </attraction>
+            <attraction>
+                <name>Vatnajokull National Park:</name>
+                <description>Europe’s largest nation park covers 13% of Iceland and safeguards mighty Vatnajokull, the largest ice cap outside the poles (three times the size of Luxembourg). Scores of outlets glaciers flow down from its frosty bulk, while underneath it are active volcanoes and mountain peaks. Yes, this is ground zero for those ‘fire and ice’ cliché. You’ll be spellbound by the diversity of landscapes, walking trails and activities inside the super-sized park. Given its dimensions, access points are numerous – start at Skaftafell in the south or Asbyrgi in the north.</description>
+            </attraction>
+            <attraction>
+                <name>Trollaskagi Peninsula:</name>
+                <description>Touring Trollaskagi is a joy, especially now that road tunnels link the spectacularly sited townships of Siglufjordur and Olafsjordur, once end-of-the-road settlements. The peninsula’s dramatic scenery is more reminiscent of the Westfjords than the gentle hills that roll through most of northern Iceland. As well as top-notch scenery and hiking, pit stops with pulling power include Hofsos’s perfect fjordside swimming pool, Lonkot’s fine local produce and Siglufjordur’s outstanding herring museum, plus ski fields, whale-watching tour, and ferries to offshore islands.</description>
+            </attraction>
+        </attractions>
+        <cuisines>
+            <cuisine>
+                <name>Hangikjot:</name>
+                <description>Hung meat, usually smoked lamb, served in thin slices.</description>
+            </cuisine>
+            <cuisine>
+                <name>Handfiskur:</name>
+                <description>Brittle pieces of wind-dried haddock, usually eaten with butter.</description>
+            </cuisine>
+            <cuisine>
+                <name>Hverabraud:</name>
+                <description>Rich, dark rye bread baked underground using geothermal heat; try it in Myvatn.</description>
+            </cuisine>
+            <cuisine>
+                <name>Jolaglogg:</name>
+                <description>Mulled wine beefed up with vodka – a popular Yuletide tipple.</description>
+            </cuisine>
+            <cuisine>
+                <name>Liquorice:</name>
+                <description>Salt liquorice and chocolate-covered varieties fill the supermarket sweet aisles.</description>
+            </cuisine>
+            <cuisine>
+                <name>Ponnukokur:</name>
+                <description>Icelandic pancakes, which are thin, sweet anf cinnamon flavored.</description>
+            </cuisine>
+        </cuisines>
+        <when-to-go>
+            <consideration>
+                <time>Jun-Aug:</time>
+                <reason>Visitors descend en masse to all corners of the country – especially Reykjavik/ endless daylight and midnight merriment abounds. The arid interior welcomes hikers.</reason>
+            </consideration>
+            <consideration>
+                <other>
+                    <time>May and Sep:</time>
+                    <reason>Breezier weather and occasional snows in the interior. Optimal visiting conditions for those who prefer crowdless vistas to cloudless days.</reason>
+                </other>
+                <other>
+                    <time>Oct-Apr:</time>
+                    <reason>Most minor roads shut down due to severe weather condition. Northern Lights shimmer in the sky. Brief spurts of daylight betwixt endless stretches of night.</reason>
+                </other>
+            </consideration>
+        </when-to-go>
+    </country>
+    <country id="17">
+        <name>Israel and the Palestinian Territories</name>
+		<image>image/17.jpg</image>
+        <continent>Asia</continent>
+        <capital>Jerusalem Ramallah</capital>
+        <population>12,100,000</population>
+        <area>26,990 sq km</area>
+        <official-language>Hebrew, Arabic</official-language>
+        <attractions>
+            <attraction>
+                <name>Dome of the Rock:</name>
+                <description>The first sight of the Dome of the Rock – its gold cap shimmering above a mystical turquoise-hued octagonal base – never fails to take one’ breaths away. Perhaps that’s what the architects had in mind more than 1300 years ago when they set to work on this impossibly gorgeous building. The dome covers a slab of stones sacred to both the Muslim and Jewish faiths. The best view is from the Mount of Olives, but don’t miss the chance to see it up close by taking an early morning walk up o the Temple Mount. The interior of the Dome is not open to non-Muslims.</description>
+            </attraction>
+            <attraction>
+                <name>The Dead Sea:</name>
+                <description>You pass a sign reading ‘Sea Level’ and then keep driving downhill, eventually catching glimpses of the Dead Sea’s cobalt-blue waters, outlined by snow-white salt deposits reddish-tan cliffs and tufts of dark-green vegetation. At the oasis of Ein Gedi you can hike through unique desert habitats to crystal-clear pools and tumbling waterfalls before climbing to the Judean Desert plateau above – r heading down to the seashore for a briny, invigorating dip. To the south around Mt Sodom, outdoor options include adventure cycling along dry riverbeds.</description>
+            </attraction>
+            <attraction>
+                <name>Tel Aviv Beaches:</name>
+                <description>Just over 100 years ago, Tel Aviv was little more than sand dunes. Today it’s sprawling cosmopolitan city bursting with bars, bistros and boutiques, but the beach is still the epicenter of life. Here, sunbathers bronze their bodies, while the more athletic swim, surf and play intense games of markot (beach racquetball). Each beach along the coast of Tel Aviv has its own character and personality – sporty, party, family. Alternative, gay-friendly or religious – all against he deep-blue backdrop of the Mediterranean.</description>
+            </attraction>
+            <attraction>
+                <name>Golan Heights:</name>
+                <description>From towering Nimrod Fortress, the ‘Galilee Panhandle’ spreads uot before you like a topographical map, but turn around and the looming flanks of Mt Hermon, snow-capped well into spring, dwarf even this Crusader-era stronghold. Hikers can take on the alpine peaks of Mt Hermon, or follow the cliff-lined wadis of the Banias and Yehudiya Nature Reserves on their way to the Jordan River and the Sea of Galilee. The Golan’s basalt sols are ideal for growing grapes, so the local boutique wines are some of Israel’s finest.</description>
+            </attraction>
+        </attractions>
+        <cuisines>
+            <cuisine>
+                <name>Amba:</name>
+                <description>Iraqi-style mango chutney.</description>
+            </cuisine>
+            <cuisine>
+                <name>Bourekas:</name>
+                <description>Flay Balkan pastries filled with Bulgarian cheese, spinach or mushrooms.</description>
+            </cuisine>
+            <cuisine>
+                <name>Challah:</name>
+                <description>Braided bread traditionally eaten by Jews on the Sabbath.</description>
+            </cuisine>
+            <cuisine>
+                <name>Cholent:</name>
+                <description>A heavy meat and potato stew simmered overnight and served for Sabbath lunch.</description>
+            </cuisine>
+            <cuisine>
+                <name>Labneh:</name>
+                <description>Thick, creamy yoghurt cheese, often smothered in olive oil and sprinkled with zaatar.</description>
+            </cuisine>
+            <cuisine>
+                <name>Sabich:</name>
+                <description>A pita picket filled with fried eggplant, boiled potato, hard-boiled egg, tahini, amba and freshly chopped vegies.</description>
+            </cuisine>
+            <cuisine>
+                <name>Schug:</name>
+                <description>Yemenite hot chili paste.</description>
+            </cuisine>
+        </cuisines>
+        <when-to-go>
+            <consideration>
+                <time>Jul and Aug:</time>
+                <reason>Warm in Jerusalem, muggy in Tel Aviv, internal in Eilat, Tiberias. Dead Sea. Hotels prices spike and rooms are scarce. Jewish holidays of Passover, Rosh HaShana and Sukkot are also high season.</reason>
+            </consideration>
+            <consideration>
+                <other>
+                    <time>Mar-Jun:</time>
+                    <reason>Sometimes rainy but more often warm and sunny. Spring wildflowers make March and April ideal for hiking. Tourists numbers spike during weeklong Jewish holidays of Passover and Sukkot.</reason>
+                </other>
+                <other>
+                    <time>Dec-Feb:</time>
+                    <reason>Chilly or downright cold in the north, especially at higher elevations. Popular time to head to the warmth of Eilat and the Dead Sea.</reason>
+                </other>
+            </consideration>
+        </when-to-go>
+    </country>
+    <country id="18">
+		<name>Kenya</name>
+		<image>image/18.jpg</image>
+		<continent>Africa</continent>
+		<capital>Nairobi</capital>
+		<population>44,000,000</population>
+		<area>580,367 sq km</area>
+		<official-language>English, Swahili</official-language>
+		<attractions>
+			<attraction>
+				<name>Wildlife Migration:</name>
+				<description>Studded with flat-top acacia trees, the rolling savannahs of the Masai Mara National Reserve support some of the highest concentrations of wildlife on the planet, and provide the stage on which the legendary wildebeest migration is played out. From August, the Mara’s plains are flooded with literally millions of these ungainly animals. Along with herds of zebras, elephants and giraffes. Trailing this veritable walking buffet are prides of lion, solitary cheetahs and packs of laughing hyenas. Yes, come August in the Mara, it’s most definitely game on.</description>
+			</attraction>
+			<attraction>
+				<name>Elephants of Amboseli National Park:</name>
+				<description>There’s possibly no better place in the world to watch elephants than Amboseli National Park in the country’s south. A big part of the apparel is the setting – Africa’s highest mountain, the snowcapped Mt Kilimanjaro, is the backdrop for seemingly every picture you’ll take here. Just as significant, Amboseli was spared the worst of Kenya’s poaching crisis and these elephants are remarkably tolerant of human presence (allowing you to get really close).</description>
+			</attraction>
+			<attraction>
+				<name>Wandering Lamu’s Backstreets:</name>
+				<description>Lamu is surely the most evocative destination on the Kenyan coast. With no cars around, the bets way to get to know this graceful town is by wandering its backstreets, admiring the grand old Swahili doors, peeking into hidden courtyards bursting with unexpected colors, slipping into easy chair and sipping on fruit juices, and accepting all invitations to stop and shoot the breeze (chat). Do all this, and the backstreets of Lamu will become a place you’ll dream of forever.</description>
+			</attraction>
+			<attraction>
+				<name>Hiking Mt Kenya:</name>
+				<description>Mt Kenya is the country’s highest peak and Africa’s second highest. Located in the heart of the country and in the hearts of the Kikuyu people, this is not a mountain to be admired from afar. The Kikuyu tribe keeps its doors open to the face of the sacred mountain, and some still come to its lower slopes to offer prayers and the foreskins of their young men. Besides being venerated by the Kikuyu, Mt Kenya has the rare honor of being both a Unesco World Heritage site and a Unesco Biosphere Reserve.</description>
+			</attraction>
+			<attraction>
+				<name>Kakamega Forest:</name>
+				<description>Path lace the Kakamega Forest and offer a arare opportunity to ditch the safari 4WD and stretch your legs. This ancient forest is home to an astonishing 330 bird species, 400 butterfly species and seven different primate species. But like most rainforests, the trees themselves are the chief attraction here, and in the forest gloom you’ll stumble upon the botanical equivalent of beauty and the beast: delicate orchids and parasitic figs that strangle their hosts as they climb towards the light.</description>
+			</attraction>
+			<attraction>
+				<name>Dhow to Takwa:</name>
+				<description>Set sail with the monsoon winds on a creaky dhow: the sleepy Swahili ruins of Takwa are your goal. To get there you must plot a course between the Seven Isles of Eryaya and navigate the narrow maze of mangroves. On the way, swim and snorkel with brightly colored fish and eat coconut rice as ghost crabs play at your feet. Never does the Kenyan coast feel more romantic than when seen through the eyes of a dhow trip around the Lamu archipelago.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<description>The Kenyan culinary tradition has generally emphasized feeding the masses as efficiently as possible, with little room for flair or innovation. Most meals are centered on ugali, a thick, doughlike mass made from boiled grains cooked into a porridge until it sets hard, then served up in flat (and rather dense) slabs. Kenyans are enthusiastic carnivores and their unofficial national dish, nyama choma (barbecued meat), is a red-blooded, hands-on affair. Goat Is the most common meat, but you’ll see chicken, beef and some game animals. Chai is the national obsession and, as in India, the tea, milk and masses of sugar are stewed for ages and the result is milky and very sweet. Spiced masala chai with cardamom and cinnamon is very pleasant and rejuvenating.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Jan, Feb and Jun-Oct:</time>
+					<reason>Wildebeest in the Mara migrate from June to October. January and February offer hot, dry weather, good for wildlife watching. Sky-high lodge prices, book well in advance.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Nov and Dec:</time>
+						<reason>Short rains fall in October and November. Prices at most lodges and parks drop on November, but advance reservations are still required.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="19">
+		<name>Macau</name>
+		<image>image/19.jpg</image>
+		<continent>Asia</continent>
+		<capital>Macau</capital>
+		<population>583,003</population>
+		<area>28,200 sq km</area>
+		<official-language>Cantonese</official-language>
+		<attractions>
+			<attraction>
+				<name>Church of St Paul:</name>
+				<description>A gateway to nowhere in the middle of the city is all that remains of the Church of St Paul, considered by some to be the greatest monument to Christianity in Asia. The church was designed by an Italian Jesuit and built in 1602 by Japanese Christian exiles and Chines craftsmen. In 1835 a fire destroyed everything except the façade. Like much of Macau’s colonial architecture, its European appearance belies the fascinating mix of influences (in this case Chinese, Japanese, Indochinese) that contributed to its aesthetics.</description>
+			</attraction>
+			<attraction>
+				<name>St Lazarus District:</name>
+				<description>Stroll through this lovely neighborhood of quiet houses and cobbled streets. Artist, designers and independents have set up shop here recently.</description>
+			</attraction>
+			<attraction>
+				<name>Guia Fort:</name>
+				<description>As the highest point on the Macau Peninsula, this fort affords panoramic views of the city and, on a clear day, across to China. At the top you’ll find a lighthouse, built in 1865 and the oldest on the China coast, and the lovely Chapel of Our Lady of Guia, built in 1622 and retaining almost 100% of its original features.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Chicken:</name>
+				<description>Try the Macanese specialty, galinha Africana (African chicken), made with coconut, garlic and chilies.</description>
+			</cuisine>
+			<cuisine>
+				<name>Portuguese good:</name>
+				<description>Popular dishes include salada de bacalhau (dried salted cod salad), arroz de pato (rice with duck confit) and leitao assado no forno (roast suckling pig).</description>
+			</cuisine>
+			<cuisine>
+				<name>Seafood:</name>
+				<description>Casquinha (stuffed crab) is a favorite.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Mar-May:</time>
+					<reason>Celebrate the arts, a sea goddess and a dragon as mist hangs over the harbor.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jun-Sep:</time>
+						<reason>Days in the shade of temples and dragon boats; night aglow with fireworks.</reason>
+					</other>
+					<other>
+						<time>Oct-Feb:</time>
+						<reason>Music and Grand Prix in a high-octane run-up to Christmas and New Year.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="20">
+		<name>Maldives</name>
+		<image>image/20.jpg</image>
+		<continent>Asia</continent>
+		<capital>Male</capital>
+		<population>393,988</population>
+		<area>298 sq km</area>
+		<official-language>Dhivehi</official-language>
+		<attractions>
+			<attraction>
+				<name>Male:</name>
+				<description>This Maldivian capital is definitely the best place to get to know locals and see what makes them tick. The brightly painted houses, crowded markets and teashops where you can chat to locals and share plates of delicious ‘short eats’ are just some of the highlights of this fascinating capital city – and they perfectly complement the resort experience.</description>
+			</attraction>
+			<attraction>
+				<name>Breakfast with the Hammers:</name>
+				<description>Hammerhead sharks, definitely one of the weirdest-looking creatures in the sea (and that’s saying something), can be seen in abundance in Maldivian waters – if you know where to look for them. There are few more thrilling experiences than a dawn dive, descending free fall into the deep blue to 30m, before suddenly coming upon a huge school of hungry hammerhead sharks waiting to be fed. The world-famous Hammerhead Point (aka Rasdhoo Madivaru) in Rasdhoo Atoil.</description>
+			</attraction>
+			<attraction>
+				<name>Take a Seaplane:</name>
+				<description>Few destinations can claim that the mode of transport in which travelers arrive is one of the highlights of their trip, but that’s because there are few places in the world where you need seaplanes to reach your hotel. The main port is at Male International Airport, where these zippy Twin Otters function like taxis in a country with no roads. Taking off from the water is an unforgettable experience, as is observing the spectacular coral atolls, blue lagoons and tiny desert islands from above.</description>
+			</attraction>
+			<attraction>
+				<name>Snorkel in Addu:</name>
+				<description>When EL Nino devastated the marine life of the Maldives and bleached the corals in 1998, the only area of the country to escape was the most southern atoll, Addu. While the coral all over the country is recovering impressively, here the corals are absolutely spectacular, including huge staghorn corals that didn’t survive elsewhere in the Maldives. Anyone who snorkels or dives here will be in awe of the strength and variety of color, particularly off the island of Gan.</description>
+			</attraction>
+			<attraction>
+				<name>Swim with a Whale Shark:</name>
+				<description>The largest fish in the world, the whale shark is prevalent in Maldivian waters, especially in the south of Ari Atoll and during a full moon when the currents between the atolls are at their strongest. Swimming with one of these gentle giants is an incredible experience – they average almost 10m in length – and it’s also totally safe, as despite their immense size, whale sharks feed only on plankton.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Beer:</name>
+				<description>In Male it’s all nonalcoholic, even if it doesn’t look it. For those gasping for the real thing, you’ll need to cross the lagoon to the airport island where alcoholic beer is widely available.</description>
+			</cuisine>
+			<cuisine>
+				<name>Bis hulavuu:</name>
+				<description>A pastry made from eggs, sugar and ghee and served cold. You may well be invited to try some if you visit an inhabited island.</description>
+			</cuisine>
+			<cuisine>
+				<name>Coffee:</name>
+				<description>Maldivians love their coffee. You can get very good espresso, latte or cappuccino anywhere in Male, as well as at most resorts and guesthouses.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kavaabu:</name>
+				<description>Small deep-fried dough balls with tuna, mashed potato, pepper and lime – a very popular ‘short eat’.</description>
+			</cuisine>
+			<cuisine>
+				<name>Short eats:</name>
+				<description>A selection of finger food such as fihunu mas (fish pieces with chili coating), gulha (friend dough balls filled with fish and spices), keemia (friend fish rolls in batter) and kuli boakiba (spicy fish cakes).</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Dec-Feb:</time>
+					<reason>The Maldives enjoys its best weather. Expect little rain, low humidity and blue skies. Christmas and New Year involve huge price hikes and often minimum stays of 10-day or more.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Mar-Apr:</time>
+						<reason>Great weather continues until the end of April, when the weather is at its hottest. Surf season begins in March and continues until October.</reason>
+					</other>
+					<other>
+						<time>May-Nov:</time>
+						<reason>Storms and rain more likely, but weather is warm and resorts at their cheapest. Prices rise in August for European summer holidays. Marine life is more varied on the western side of atolls.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="21">
+		<name>Mongolia</name>
+		<image>image/21.jpg</image>
+		<continent>Asia</continent>
+		<capital>Ulaanbaatar</capital>
+		<population>2,900,000</population>
+		<area>1,600,000 sq km</area>
+		<official-language>Khalkha Mongol</official-language>
+		<attractions>
+			<attraction>
+				<name>Nadaam Festival:</name>
+				<description>Mongolians love their naadam. With two or three days of serious wrestling, horse racing and archery action, who wouldn’t? While ‘nadaam’ literally means games, the celebration is much more than that. It’s all about fun, getting together with friends and relatives, eating lots of khuushuur (mutton pancakes) and emptying a vodka bottle or two. The most traditional festivals happen in small towns, where every member of the community is somehow involved. By comparison, the naadaam in Ulaanbaatar feels less like a community festivals and more like a big sporting event, with huge crowds and plenty of associated concerts and theater events.</description>
+			</attraction>
+			<attraction>
+				<name>Staying in a Ger:</name>
+				<description>Of all the experiences you are likely to have in Mongolia, the most memorable will be your visits to gers. From the outside, gers look like simple tents, but step inside and you’ll be surprised by the amount of furnishings and modern appliances a nomadic family can have. There are beds, tables, chairs, dressers, a stove and often a TV and radio. Visitors are always welcome inside a ger and you don’t even need to knock (Mongolians never do). Instead, when approaching a ger, call out ‘Nokkhoi khor’, which means ‘Hold the dog’. Tourist get camps are dotted across the country – for an experience close to the city, join urbanweary Ulaanbaatarites in the Terelj Area; at 1600m, the region is cool and the alpine scenery magnificent.</description>
+			</attraction>
+			<attraction>
+				<name>Gobi Desert:</name>
+				<description>The idea of going to the Gobi for a vacation would probably have Marco Polo turning in his grave. The Venetian traveler, and others like him, dreaded crossing this harsh landscape. Thankfully, travel facilities have improved in the past 800 years, and it’s now possible to make a reasonably comfortable visit. There are shaggy camels to ride and dinosaur fossils to dig up, but the real highlight is the scenic Khongoryn Els – towering sand dunes that whistle when raked by high winds.</description>
+			</attraction>
+			<attraction>
+				<name>Khovsgol Nuur:</name>
+				<description>The natural highlight of Mongolia is Khovsgol Nuur, a 136km-long lake set on the southernmost fringe of Siberia. For Mongolians the lake is a deeply spiritual place, home to powerful nagas (water spirits) and a source of inspiration for shamans that live there. For foreigners Khovsgol is a place for adventure, with horse riding, fishing, kayaking, trekking and mountain biking a few of the possibilities. Hard-core adventures can even embark on a 15-day trek around its glorious shoreline.</description>
+			</attraction>
+			<attraction>
+				<name>Ulaanbaatar:</name>
+				<description>Mongolia is said to be the least-densely populated country on the planet. You would have a hard time believing that if you only visited its capital. The crush of people, cars and development in Ulaanbaatar can be overwhelming and exciting all at once. Beyond the heady nightlife, chic cafes and Hummers, the city has a peaceful side, too. Turn a prayer wheel at Gandan Khiid, saunter across Sukhbaatar Sq and climb up Zaisan Memorial to take a break from this bewildering place.</description>
+			</attraction>
+			<attraction>
+				<name>Erdene Zuu Khiid:</name>
+				<description>The time-worn Buddhist monasteries (khiid) that dot the landscape are the most immediate window on Mongolia’s spiritual roots. Lamas young and old sit quietly in the pews, carrying on the legacy of religion brought here from Tibet centuries ago. The laypeople that visit the monasteries pay homage with the spin of a prayer wheel and whispered mantras. As well as a place of pilgrimage, the monasteries are also rare slices of tangible history, filled with precious Buddhist icons, Sutras and the delicate paintings that grace their ancient walls. Founded in 1586 by Altai Khaan, Erdene Zuu (Hundred Treasures) was the first Buddhist monastery in Mongolia. It once had between 60 and 100 temples and, its peak, up to 1000 monks in residence.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Buuz:</name>
+				<description>Steamed dumplings filled with mutton and sometimes slivers of onion or garlic.</description>
+			</cuisine>
+			<cuisine>
+				<name>Khorkhog:</name>
+				<description>A dish made by placing hot stones from an open fire into a pot or urn with chopped mutton and water. The container is then sealed and left on the fire.</description>
+			</cuisine>
+			<cuisine>
+				<name>Makh:</name>
+				<description>The classic Mongolian dinner staple consists of boiled sheep bits (bones, fat, various organs and the head) with some sliced potato, served in aplastic bucket.</description>
+			</cuisine>
+			<cuisine>
+				<name>Shotte khool:</name>
+				<description>Literally, soup with food – a meal involving hot broth, pasta silvers, boiled mutton and a few potato chunks.</description>
+			</cuisine>
+			<cuisine>
+				<name>Suutei tsai:</name>
+				<description>Milk tea with salt. The taste varies by region; in Bayan-Olgii may even include a dollop of butter.</description>
+			</cuisine>
+			<cuisine>
+				<name>Tsagaan idee:</name>
+				<description>Literally ‘white foods’: yoghurt, milk, delicious fresh cream, cheese and fermented milk drinks.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time> Jun-Aug:</time>
+					<reason> Expect hot, dry weather in June and July. Late July and August are warm but expect rain. Book flights and accommodation in advance, especially around Nadaam.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Oct-Apr:</time>
+						<reason>Some ger camps and guesthouses close; some hotels offer discounts. Frigid in December and January. Winds and dust storms in March and April. Activities such as dog sledding, ice skating and skiing.</reason>
+					</other>
+					<other>
+						<time>May and Sep:</time>
+						<reason>Some ger camps may be closed. Weather can be changeable so plan for a cold snap. Fewer tourists at this time.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="22">
+		<name>New Zealand</name>
+		<image>image/22.jpg</image>
+		<continent>Oceania</continent>
+		<capital>Wellington</capital>
+		<population>4,400,000</population>
+		<area>267,710 sq km</area>
+		<official-language>Maori, English</official-language>
+		<attractions>
+			<attraction>
+				<name>Kaikoura:</name>
+				<description>First settled by Maori with their keen nose for seafood, Kaikoura is a pretty peninsula town backed by the snowcapped peaks of the Seaward Kaikoura Range. There are few places in the world with so much wildlife around: whales, dolphins, NZ fur seals, penguins, shearwaters petrels and wandering albatross all stop by or make this area home. When it comes to ‘seafood and eat it’, crayfish is still king, but on fishing tours you can try other edible wonders of the deep.</description>
+			</attraction>
+			<attraction>
+				<name>Bay of Islands:</name>
+				<description>Turquoise waters lapping in pretty bays, dolphins frolicking at the bows of boats, pods of orcas gliding gracefully by: chances are these are the kind of images that drew you to New Zealand in the first place, and the Bay of Islands will deliver them so well. Whether you’re a hardened sea dog or a confirmed landlubber, there are myriad options to tempt you out on the water to explore the 150-odd islands that dot this beautiful bays, from subtropical diving to kayaking or sailing.</description>
+			</attraction>
+			<attraction>
+				<name>Queenstown:</name>
+				<description>Queenstown may be renowned as the birthplace of bungy jumping, but there’s more to NZ’s adventure hub than leaping off a bridge attached to a giant rubber band. Against the jagged indigo profile of the Remarkables mountain range, travelers can spend days skiing, hiking or mountain biking, before dining in cosmopolitan restaurants or partying in some of NZ’s best bars. Next-day options include hang gliding, kayaking or river rafting, or a detour to Arrowtown or Glenorchy.</description>
+			</attraction>
+			<attraction>
+				<name>Geothermal Rotorua:</name>
+				<description>The first thing you’ll notice about Rotorua is the Sulphur smell – this geothermal hot spot whiffs like old socks. But as the locals point out, volcanic byproducts are what everyone is here to see: gushing geysers, building mud, steaming cracks in the ground, boiling pools of mineral-rich water... Rotorua is unique. There are some fairly commercial local businesses, but you don’t have to spend a fortune – there are plenty of affordable volcanic encounters to be had in parks, Maori villages or just along the roadside.</description>
+			</attraction>
+			<attraction>
+				<name>Auckland Harbor and the Hauraki Gulf:</name>
+				<description>The island-studded Hauraki Gulf is Auckland’s aquatic playground, sheltering its harbor and east-coast bays and providing ample excuse for the City of Sails’ pleasure fleet to breeze into action. Despite the resident pods of whales and dolphins, Rangitoto is an icon of the city, its near-perfect volcanic cone the backdrop for many a tourist snapshot. Yet it’s Waiheke, with beautiful beaches, acclaimed wineries and upmarket eateries, that is Auckland’s most popular island landscape.</description>
+			</attraction>
+			<attraction>
+				<name>Franz Josef and Fox Glaciers:</name>
+				<description>This spectacular glaciers of Franz Josef and Fox are remarkable for many reason, including their rates of accumulation and descend., and their proximity to both the loftiest peaks of the Southern Alps and the Tasman Sea around 10km away. Several short walks meander towards the glaciers’ fractured faces (close enough for you to feel insignificant!), or you can take a guided hike on the ice. The ultimate encounter is on scenic flight, which often also provides grandstand views of Mt Cook, Westland forest and a seemingly endless ocean.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<description>If you haven’t been down to your local liquor store in the last decade you might have missed the phenomenon that is New Zealand wine: a pristine environment, abundant sunshine, volcanic soils and passionate wine-makers have been busy bottling world-beating cool-climate drops</description> 			
+			</cuisine>
+			<cuisine>
+				<name>Gibbston Valley:</name>
+				<description>Negotiate a tasty pathway through the vineyards of this meandering river valley near Queenstown.</description>
+			</cuisine>
+			<cuisine>
+				<name>Hawke’s Bay:</name>
+				<description>One of NZ’s oldest and most established wine areas id still one of the country’s best.</description>
+			</cuisine>
+			<cuisine>
+				<name>Marlborough:</name>
+				<description>The country’s biggest and best wine region keeps on tuning out superb sauvignon blanc.</description>
+			</cuisine>
+			<cuisine>
+				<name>Martinborough:</name>
+				<description>A small-but-sweet day-trip from Wellington: easy cycling and easy-drinking pinot noir.</description>
+			</cuisine>
+			<cuisine>
+				<name>Waiheke Island:</name>
+				<description>Auckland’s favorite weekend playground has a hotm dry microclimate: perfect for Bordeaux-style reds and roses.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Mar-Apr:</time>
+					<reason>Prime travelling time: fine weather, short queues, kids in school, warm ocean. Long evenings to sip kiwi wines and craft beers.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>May-Aug:</time>
+						<reason>Head foe the Southern Alps for some brilliant skiing. No crowds, good accommodation deals and a seat in any restaurant. Warm-weather beach towns might be half asleep.</reason>
+					</other>
+					<other>
+						<time>Dec-Feb:</time>
+						<reason>Summer: busy beaches, outdoor activities, festivals, sporting events. Big-city accommodation prices rise. </reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="23">
+		<name>South Africa</name>
+		<image>image/23.jpg</image>
+		<continent>Africa</continent>
+		<capital>Pretoriar</capital>
+		<population>48,600,000</population>
+		<area>1,200,000 sq km</area>
+		<official-language>Zulu, Xhosa, Afrikaans, English, Sepedi, Setswana, Sesotho, Xitsonga, Swati, Tshivenda, Ndebele</official-language>
+		<attractions>
+			<attraction>
+				<name>Table Mountain:</name>
+				<description>Whenever you take the easy way up in a revolving cable car, or put in the leg work on the climb, attaining the summit of Table Mountain is a Capetonian rite of passage. Weather permitting, your rewards are a panoramic view across the peninsula and a chance to experience the park’s incredible biodiversity. Schedule time for a hike – the park’s 24,5000 hectares have routes to suit all levels of fitness and ambition, from gentle fynbos-spotting ambles to the five-day, four-night Hoerikwaggo Trail.</description>
+			</attraction>
+			<attraction>
+				<name>Krugger National Park:</name>
+				<description>One of South Africa’s great wilderness experiences and the mightiest of all the country’s national parks, a trip here will sear itself you’re your mind. Its accessibility, numbers and variety of wildlife, staggering size and range of activities make Kruger unique and compelling. From wilderness trails and bush walks to mountain biking and remote 4WD trails, there are myriad opportunities to enjoy both the wild and the wildlife. Kruger is simply one of the best places to see animals – big and small – in Southern Africa.</description>
+			</attraction>
+			<attraction>
+				<name>Sipping in the Winelands:</name>
+				<description>Whitewashed Cape Dutch architecture dots the landscape of rolling hills and neat rows of vines. This is the quintessential Cape, where the world-class wines are the icing on a picture-perfect cake. Stellenbosch, Franschloek and Paarl, the area’s wines-tasting towns, boast some of the oldest, largest and prettiest wines estates on the continent. But this is not the province’s only wine region: head to Tulbagh for sparkling wines, Route 62 for robust reds and port, or the heights of the Cederberg for crisp sauvignon blancs.</description>
+			</attraction>
+			<attraction>
+				<name>Wild Coast Walks:</name>
+				<description>The hauntingly beautiful Wild Coast is aptly named. With its rugged cliffs plunging into the sea, remote beaches, Xhosa villages, and history of shipwrecks and stranded sailors, it’s a region ideally explored on foot. From the Great Kei River near East London to Port St Johns, pathways hug the shoreline, snaking across denuded hillsides and gorges, and overlooking massive southern right whales and dolphins in the turquoise blue seas. Power down in rustic accommodation or overnight with families in traditionally designed rondavels (round huts with conical roofs).</description>
+			</attraction>
+			<attraction>
+				<name>iSimangaliso Wetland Park:</name>
+				<description>Its name, which means ‘miracle’ or ‘wonder’, is fitting. The iSimangaliso Wetland Park, a Unesco World Heritage site, stretches for 220 glorious kilometers, from the Mozambique border to Maphelane, at the southern end of Lake St Lucia. The 328,000-hectare park protects five distinct ecosystems, with everything from offshore reefs and beaches, to lakes, wetlands, woodlands and coastal forests. It’s nature’s playground, offering wildlife drives, hikes, cycling and swimming, plus extraordinary animals: loggerhead and leatherback turtles, whales and dolphins, rhinos, antelopes, zebras and hippos galore.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Atchar:</name>
+				<description>Cape Malay pickle of fruits and vegetables, flavored with garlic, onion and curry.</description>
+			</cuisine>
+			<cuisine>
+				<name>Chakalaka sauce:</name>
+				<description>Spicy tomato-based sauce seasoned with onions, peri peri, green peppers and curry.</description>
+			</cuisine>
+			<cuisine>
+				<name>Kingklip:</name>
+				<description>Excellent firm-fleshed fish, usually pan-fried.</description>
+			</cuisine>
+			<cuisine>
+				<name>Koeksuster:</name>
+				<description>Plaited doughnut dripping in honey.</description>
+			</cuisine>
+			<cuisine>
+				<name>Malva:</name>
+				<description>Delicious sponge dessert; sometimes called vinegar pudding.</description>
+			</cuisine>
+			<cuisine>
+				<name>Melktert:</name>
+				<description>Rich, custardlike tart made with milk, eggs, flour and cinnamon.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pap and sous:</name>
+				<description>Maize porridge with a tomato and onion sauce or meat gravy.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Apr-May, Oct-Nov:</time>
+					<reason>There is a school holiday from late September to early October. Sunny spring and autumn weather in much of the country. Optimum wildlife-watching conditions begin in autumn.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Jun-Sep:</time>
+						<reason>Winter is ideal for wildlife-watching. There is a school holiday from late June to mid-July. Prices sometimes reflect this holiday; otherwise they are low with discounts and packages.</reason>
+					</other>
+					<other>
+						<time>Dec-Mar:</time>
+						<reason>Peak times are around Christmas, New Year and Easter. Prices rise steeply. Accommodation in national parks and the coast books up months in advance. Tourist areas and roads are busy.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="24">
+		<name>Tibet</name>
+		<image>image/24.jpg</image>
+		<continent>Asia</continent>
+		<capital>Lhasa</capital>
+		<population>5,600,000</population>
+		<area>2,500,000 sq km</area>
+		<official-language>Tibetan, Chinese</official-language>
+		<attractions>
+			<attraction>
+				<name>Potala Palace:</name>
+				<description>There are moments in travel that will long stay with you – and your first view of the iconic Potala Palace is one such moment. Even surrounded by a sea of Chinese development, the towering, mysterious building dominates Lhasa; it’s simply hard to take your eyes off the thing. A visit to the former home of the Dalai Lamas is a spiraling descent past gold-tombed chapels, reception rooms and prayer halls into the bowels of a medieval castles. It’s nothing less than the concentrated spiritual and material wealth of a nation.</description>
+			</attraction>
+			<attraction>
+				<name>Mt Kailash, Western Tibet:</name>
+				<description>Worshipped by more than a billion Buddhists and Hindus, Asia’s most sacred mountain rises from the Barkha plain like a giant four-sided 6714m chorten. Throw in the stunning nearby Lake Manasarovar and a basin that forms the source of four of Asia’s greatest rivers, and who’s to say this place really isn’t the center of the world? Travel here to one of the world’s most beautiful and remote corners brings an added bonus: the three-day pilgrim path around the mountain erases the sins of a lifetime.</description>
+			</attraction>
+			<attraction>
+				<name>Jokhang Temple, Lhasa:</name>
+				<description>The atmosphere of hushed awe is what hits you first as you inch through the dark, medieval passageways of the Jokhang. Queues of wide-eyed pilgrims shuffle up and down the stairways, past medieval doorways and millennium-old murals, pausing briefly to top up the hundreds of butter lamps that flicker in the gloom. It’s the beating spiritual heart of Tibet. Welcome to the 14th century.</description>
+			</attraction>
+			<attraction>
+				<name>View of Mt Everest:</name>
+				<description>Don’t tell the Nepal Tourism Board, but Tibet has easily the best views of the world’s most famous mountain. While two-week long trekking routes on the Nepal side offer up only occasional fleeting glimpse of the peak, the view of Mt Everest’s unobstructed north face framed in the prayer flags of Rongphu Monastery or from a tent at the Base Camp will stop you in your tracks.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Momos:</name>
+				<description>You don’t have to look far to find these small dumplings filled with meat or vegetables or both. They are normally steamed but can be fried and are pretty good.</description>
+			</cuisine>
+			<cuisine>
+				<name>Thugpa:</name>
+				<description>This is a noodle soup made with meat or vegetables or both. Variations on the theme include hipthuk (squares of noodles and yak meet in a soup) and thenthuk (more noodles). Glass noodles known as phing are also sometimes used.</description>
+			</cuisine>
+			<cuisine>
+				<name>Tsampa:</name>
+				<description>This is a kind of dough made with roasted-barley flour and yak butter mixed with water, tea or beer – something wet. Tibetans skillfully knead and mix the paste by hard into dough-like balls, which is not as easy as it looks!</description>
+			</cuisine>
+			<cuisine>
+				<name>Yak-butter tea:</name>
+				<description>This is the local beverage that every traveler ends up trying at least once. Some people prefer to call it ‘soup, others liken it to brewed socks and sump oil. However you describe it, your first mouthful is the signal that you have finally reached Tibet.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>May-Sep:</time>
+					<reason>The warmest weather makes travel, trekking and transport easiest. Prices are at their highest. The May 1st and October 1st national holidays bring the biggest crowd.</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Mar-Apr, Oct-Nov:</time>
+						<reason>The slightly colder weather means fewer travelers and a better range of 4WDs. Prices are slightly cheaper than during the high season.</reason>
+					</other>
+					<other>
+						<time>Dec-Feb:</time>
+						<reason>Very few people visit Tibet in winter, so you’ll have the place largely to yourself. Hotel prices are discounted by up to 50%, but some restaurants close.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+	<country id="25">
+		<name>Vietnam</name>
+		<image>image/25.jpg</image>
+		<continent>Asia</continent>
+		<capital>Hanoi</capital>
+		<population>92,500,000</population>
+		<area>332,210 sq km</area>
+		<official-language>Vietnamese</official-language>
+		<attractions>
+			<attraction>
+				<name>Halong Bay:</name>
+				<description>Halong Bay’s stunning combination of karst limestone peaks and sheltered, shimmering seas is one of Vietnam’s top tourist draw, but with more than 2000 islands, there’s plenty of scenery to go around. Designated a World Heritage site in 1994, this mystical landscape of limestone islets is often compared to Guilin in China or Krabi in southern Thailand. In reality, it is more spectacular. Book an overnight cruises and make time for your own special moments on this wonder – rising early for an ethereal misty dawn, or piloting a kayak into grottoes and lagoons.</description>
+			</attraction>
+			<attraction>
+				<name>Hoi An:</name>
+				<description>Vietnam’s most cosmopolitan and civilized town, this beautiful, ancient port is bursting with gourmet Vietnamese restaurants, hip bars and cafes, quirky boutiques and expert tailors. Immerse yourself in history in the warren-like lanes of the Old Town, ship till you drop, tour the temples and pagodas, and dine like an emperor on a peasant’s budget (and learn to cook like the locals). Then hit glorious An Bang Beach, wander along the riverside and bike the back roads. Whether you’ve as little as a day or as long as a month in the town, it’ll be time well spent.</description>
+			</attraction>
+			<attraction>
+				<name>Phong Nha-Ke Bang National Park:</name>
+				<description>Picture jungle-crowned limestone hills, rainforest, turquoise streams and traditional villages. Then throw in the globe’s most impressive cave systems – river-created Phong Nha Cave, the cathedral-like chambers of Son Doong, the world’s largest cave – and you can see why Phong Nha-Ke Bang is Vietnam’s most rewarding national park to explore. It’s a great place to really experience rural Vietnam at its most majestic.</description>
+			</attraction>
+			<attraction>
+				<name>Hanoi Old Quarter:</name>
+				<description>Get agreeably lost in the city’s centuries-old Old Quarter, a frantic commercial labyrinth where echoes of the past are filtered and framed by a thoroughly 21st-century energy. Discover Vietnam’s culinary flavors and aromas at street level, perched on a tiny chair eating iconic Hanoi dishes like pho bo, bun cha and banh cuon. Late at night, join the socializing throngs enjoying refreshingly crisp bia hoi at makeshift street-corner bars.</description>
+			</attraction>
+			<attraction>
+				<name>Hue:</name>
+				<description>The capital of the nation for 150 years in the 19th and early 20th centuries, Hue is perhaps the easiest Vietnamese city to love.. its situation on the banks of the Perfume River is sublime, its complex cuisine is justifiably famous and its streets are relatively traffic free. And that’s without the majesty of the Hue Citadel, its royal residence and elegant temples, formidable walled defenses and gateways. On the city’s fringes are some of Vietnam’s most impressive pagodas and royal tombs, many in wonderful natural settings.</description>
+			</attraction>
+			<attraction>
+				<name>Con Dao Islands</name>
+				<description>The furious energy that characterizes Vietnamese cities can be intoxicating, but when you need an urban detox, these idyllic tropical islands make the perfect escape. Once hell on earth for a generation of political prisoners, Con Dao is now a heavenly destination of remote beaches, pristine dive sites and diverse nature (including nesting turtles). It’s a wonderful place to explore by bike in search of that dream beach, while the main settlement of Con Son is one of Vietnam’s most charming town.</description>
+			</attraction>
+			<attraction>
+				<name>Sapa and the Tonkinese Alps:</name>
+				<description>Dubbed the Tonkinese Alps by the French, the spectacular Hoang Lien Mountains soar skywards along the rugged, uncompromising edges of northwest Vietnam towards the Chinses border. Shape-shifting banks of cloud and mist ebb and flow in this mountainous are, parting teasingly to reveal a glimpse of Fansipan, Vietnam’s highest peak. From the sinuous and spidery ridges, rice terraces cascade down into river valleys, home for several centuries to ethnic minority villages of H’mong, Red Dzao and Giay peoples.</description>
+			</attraction>
+			</attractions>
+			<cuisines>
+			<cuisine>
+				<name>Banh Xeo:</name>
+				<description>This giant crispy, chewy rice crepe is mad ein 12- or 14-inch skillets or works and amply filled with pork, shrimp, mung beans and bean sprouts.</description>
+			</cuisine>
+			<cuisine>
+				<name>Bun Bo Hue:</name>
+				<description>This punchy rice-noodle soup with beef and pork exemplifies the central Vietnamese proclivity for spicy food.</description>
+			</cuisine>
+			<cuisine>
+				<name>Bun Cha:</name>
+				<description>This street favorite features barbecued sliced pork or pork patties served with thin rice vermicelli, a heap of fresh herbs and green vegetables, and a bow of lightly sweetened nuoc mam.</description>
+			</cuisine>
+			<cuisine>
+				<name>Com Hen:</name>
+				<description>Room temperature rice is served with the flesh of tiny clams, their cooking broth, and myriad garnished.</description>
+			</cuisine>
+			<cuisine>
+				<name>Pho Bo:</name>
+				<description>A culinary highlight of the north is pho bo (beef noodle soup). A good pho hinges on the broth, which is made from beef bones boiled for hours inwater with shallot, ginger, fish sauce, black cardamom, star anise and cassia.</description>
+			</cuisine>
+		</cuisines>
+		<when-to-go>
+				<consideration>
+					<time>Dec-Mar:</time>
+					<reason>During the Tet festival, the whole country is on the move and prices rise. North of Nha Trang can get cool. In the south, clear skies and sunshine are the norm</reason>
+				</consideration>
+				<consideration>
+					<other>
+						<time>Apr-Jun, Sep-Nov:</time>
+						<reason>Perhaps the best time to tour the whole nation. Typhoons can lash the central and northern coastline until November.</reason>
+					</other>
+					<other>
+						<time>Jul-Aug:</time>
+						<reason>Prices increase on the coast; book hotels well in advance. All of Vietnam, except the far north, is hot and humid, with the summer monsoon bringing downpours.</reason>
+					</other>
+				</consideration>
+		</when-to-go>
+	</country>
+</country-list>
+</countrylisting>
