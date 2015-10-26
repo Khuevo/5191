@@ -1,0 +1,36 @@
+
+h1 {text-align: center; color: #303042; font-size:400%; text-decoration: underline; text-shadow: 3px 3px ivory}
+h2 {text-align: left; color: #FF5C33; font-size: 220%; text-shadow: 2px 2px ivory}
+h3 {text-align: left; color: #303042; font-size: 170%;}
+h4 {text-align: center; color: #303042; font-size: 170%;}
+ul {text-align: left; color: #303042; font-size: 130%;}
+ol {text-align: left; color: black;}
+
+h1, h2, h3{
+  margin-top:20px;
+  margin-bottom:10px;
+}
+body {
+		background-image: url('http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0267/3578/rMap1yd_highres.png');
+		background-position:top}
+td{
+	padding: 15px;
+	}
+
+tr:nth-child(odd)		{ background-color:#FAF0F5;}
+tr:nth-child(even)		{ background-color:ivory; }
+
+.wide {
+width:150%}
+.medium {
+width:120%}
+.narrow {
+width:20%}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+

@@ -1,0 +1,32 @@
+h1 {text-align: center; color: 37811C; font-size:400%; text-shadow: 3px 3px ivory}
+h2 {text-align: left; color: #303042; font-size: 190%; text-shadow: 2px 2px white}
+h3 {text-align: left; color: F37B95; font-size: 170%;}
+h4 {text-align: center; color: F7A646; font-size: 170%;}
+ul {text-align: left; color: 162603; font-size: 130%;}
+ol {text-align: left; color: black; font-size: 120%;}
+
+img {
+	width: 500px;
+	hight:400px;
+}
+
+body {
+	background-image: url(pink_rice.png);
+} 
+
+#borderimg3 {
+    border: 10px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(border.png) round; 
+    -o-border-image: url(border.png) round; 
+    border-image: url(border.png) round;
+    border-image-slice: 20%;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+
