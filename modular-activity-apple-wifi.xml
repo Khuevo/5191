@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wifi_appledevices>
+<title>Connect to Wi-Fi on your iPhone, iPad, or iPod touch</title>
+	<description>Learn more about iCloud Mail account mailbox size and message sending limits. Since iCloud Mail is designed for personal use, there are a few message sending limitations to know about.</description>
+	<network>
+		<title>Connect to Wi-Fi network</title>
+		<instruction>
+			<step id="1">
+				<description>1.Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Your device will search for available Wi-Fi networks.</description>
+				<image>image/1.jpg</image>
+			</step>
+			<step id="2">
+				<description>2.Tap the name of the Wi-Fi network you'd like to join.</description>
+				<image>image/2.jpg</image>
+			</step>	
+			<note>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display.</note>
+		</instruction>
+	</network>
+	<network>
+		<title>Connect to secure Wi-Fi networks</title>
+		<instruction>
+			<step id="1">
+				<description>1.Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Then, tap the name of the Wi-Fi network you'd like to join. Password-protected networks have   by their names.</description>
+				<image>image/3.jpg</image>
+			</step>
+			<step id="2">
+				<description>2.When asked, enter the password and tap Join. If tapping Join has no effect, the password you entered is too short.</description>
+				<image>image/4.jpg</image>
+			</step>
+			<note>
+				<li>If you don't know the password to the Wi-Fi network, contact your network administrator.</li>
+				<li>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display.</li>
+			</note>
+		</instruction>
+	</network>
+	<network>
+		<title>Connect to hidden Wi-Fi networks</title>
+		<note>Since hidden networks won't appear in your device's list of available networks, you'll need to know the exact name of the network you're trying to join.</note>
+		<instruction>
+			<step id="1">
+				<description>1.Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Tap Other.</description>
+				<image>image/5.jpg</image>
+			</step>
+			<step id ="2">
+				<description>2.Enter the exact name of the network, then tap Security.</description>
+				<image>image/6.jpg</image>
+			</step>
+			<step id="3">
+				<description>3.Enter the exact name of the network, then tap Security.</description>
+				<image>image/7.jpg</image>
+			</step>
+			<step id="4">4.At the top of the screen, tap Other Network to return to the previous screen.</step>
+			<step id="5">
+				<description>Enter the network password in the Password field, then tap Join.</description>
+				<image>image/8.jpg</image>
+			</step>
+			<note>After you've joined the network, you should see  next to the network, and  in the upper-left side of your display.</note>
+		</instruction>
+	</network>
+	<extra>
+		<title>Learn more</title>
+			<li>Joining subscription Wi-Fi networks</li>
+			<li>If you can't connect to a Wi-Fi network</li>
+			<li>If the Wi-Fi settings are grayed out or dim</li>
+			<li>About settings for Wi-Fi routers and access points</li>
+	</extra>
+	<review>
+		<title>Helpful?</title>
+		<choice>
+			<li>Yes</li>
+			<li>No</li>
+		</choice>
+	</review>
+	<additional>
+		<title>Additional Product Support Information</title>
+		<choice>
+			<product id="1">
+				<image>image/9.jpg</image>
+				<name>iPod touch</name>
+			</product>
+			<product id="2">
+				<image>image/10.jpg</image>
+				<name>iPod</name>
+			</product>
+			<product id="3">
+				<image>image/11.jpg</image>
+				<name>iPad</name>
+			</product>
+		</choice>
+	</additional>
+	<discussion>
+		<title>Start a Discussion n Apple Support Communities</title>
+		<space>Ask other users about this article</space>
+		<submission>Submit my question to the community</submission>
+		<others>
+			<li>See all questions on this article</li>
+			<li>See all questions I have asked</li>
+		</others>
+	</discussion>
+	<contact>
+		<title>Contact Apple Support</title>
+		<description>Need more help? Save time by starting your support request online and we'll connect you to an expert.</description>
+		<image>image/11.jpg</image>
+		<link>Get started</link>
+	</contact>
+</wifi_appledevices>
+
+ 
+			
+		
