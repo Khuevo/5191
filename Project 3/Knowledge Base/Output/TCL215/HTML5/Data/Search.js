@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],s:['+','unt'],p:[['+',18],['discuss',6],['notifications',12],['through',12]]});

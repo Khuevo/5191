@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/How to Reach EagleConnect.PNG" />
+    <Link
+      Url="http://eagleconnect.unt.edu/" />
+    <Link
+      Url="Content/Resources/Images/EagleConnect Screenshot.PNG" />
+    <Link
+      Url="http://webmail.unt.edu/" />
+    <Link
+      Url="Content/Resources/Images/reach2.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/How to Reach EagleConnect.PNG" />
+    <Link
+      Url="http://eagleconnect.unt.edu/" />
+    <Link
+      Url="Content/Resources/Images/EagleConnect Screenshot.PNG" />
+    <Link
+      Url="http://webmail.unt.edu/" />
+    <Link
+      Url="Content/Resources/Images/reach2.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

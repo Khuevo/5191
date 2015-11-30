@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Logging in and out of MyUNT.PNG" />
+    <Link
+      Url="http://www.my.unt.edu/" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/login.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/logged_off.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Logging in and out of MyUNT.PNG" />
+    <Link
+      Url="http://www.my.unt.edu/" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/login.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/logged_off.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Discussions.PNG" />
+    <Link
+      Url="Content/Resources/Images/Create Forum.PNG" />
+    <Link
+      Url="Content/Resources/Images/Create Forum 2.PNG" />
+    <Link
+      Url="Content/Resources/Images/forum.png" />
+    <Link
+      Url="Content/Resources/Images/thread.png" />
+    <Link
+      Url="Content/Resources/Images/thread_reply.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Discussions.PNG" />
+    <Link
+      Url="Content/Resources/Images/Create Forum.PNG" />
+    <Link
+      Url="Content/Resources/Images/Create Forum 2.PNG" />
+    <Link
+      Url="Content/Resources/Images/forum.png" />
+    <Link
+      Url="Content/Resources/Images/thread.png" />
+    <Link
+      Url="Content/Resources/Images/thread_reply.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

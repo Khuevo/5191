@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Messages.PNG" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/message_main.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/create_folder.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/compose_message.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/choose_recipient.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Messages.PNG" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/message_main.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/create_folder.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/compose_message.png" />
+    <Link
+      Url="../../Project1/Content/Resources/Images/choose_recipient.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

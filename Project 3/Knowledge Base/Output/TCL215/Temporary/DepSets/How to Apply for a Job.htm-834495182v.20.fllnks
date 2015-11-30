@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Applying for jobs.PNG" />
+    <Link
+      Url="Content/Resources/Images/Job Ad.png" />
+    <Link
+      Url="Content/Resources/Images/Job Posting Designer.png" />
+    <Link
+      Url="Content/Resources/Images/submit my resume.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Applying for jobs.PNG" />
+    <Link
+      Url="Content/Resources/Images/Job Ad.png" />
+    <Link
+      Url="Content/Resources/Images/Job Posting Designer.png" />
+    <Link
+      Url="Content/Resources/Images/submit my resume.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

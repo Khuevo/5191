@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Not Ready for Publish"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#80007e"
+    Name="Ready for Review"
+    Comment="" />
+</CatapultConditionTagSet>

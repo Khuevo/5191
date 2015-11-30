@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Course Menu.PNG" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Announcements.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Course Content.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Discussions.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/My Grades.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Messages.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Resources/Images/course_menu.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Course Menu.PNG" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Announcements.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Course Content.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Discussions.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/My Grades.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Products/Product A/Blackboard/Messages.htm" />
+    <Link
+      Url="../../../../../Project1/Content/Resources/Images/course_menu.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

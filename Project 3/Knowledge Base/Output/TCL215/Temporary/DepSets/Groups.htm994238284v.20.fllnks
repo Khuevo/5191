@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Groups.PNG" />
+    <Link
+      Url="Content/Resources/Images/Groups Menu.png" />
+    <Link
+      Url="Content/Resources/Images/Browse and Join Groups.png" />
+    <Link
+      Url="Content/Resources/Images/Create a New Group.png" />
+    <Link
+      Url="Content/Resources/Images/Create Group Menu.PNG" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Groups.PNG" />
+    <Link
+      Url="Content/Resources/Images/Groups Menu.png" />
+    <Link
+      Url="Content/Resources/Images/Browse and Join Groups.png" />
+    <Link
+      Url="Content/Resources/Images/Create a New Group.png" />
+    <Link
+      Url="Content/Resources/Images/Create Group Menu.PNG" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

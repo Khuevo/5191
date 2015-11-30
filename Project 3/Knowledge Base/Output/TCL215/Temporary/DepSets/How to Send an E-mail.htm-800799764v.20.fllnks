@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/How to Send an Email.PNG" />
+    <Link
+      Url="Content/Resources/Images/New Email.png" />
+    <Link
+      Url="Content/Resources/Images/New Email Document.png" />
+    <Link
+      Url="Content/Resources/Images/sending final email.png" />
+    <Link
+      Url="Content/Resources/Images/New Email on Smartphone.jpg" />
+    <Link
+      Url="Content/Resources/Images/new email on smartphone2.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/How to Send an Email.PNG" />
+    <Link
+      Url="Content/Resources/Images/New Email.png" />
+    <Link
+      Url="Content/Resources/Images/New Email Document.png" />
+    <Link
+      Url="Content/Resources/Images/sending final email.png" />
+    <Link
+      Url="Content/Resources/Images/New Email on Smartphone.jpg" />
+    <Link
+      Url="Content/Resources/Images/new email on smartphone2.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/My Account.PNG" />
+    <Link
+      Url="Content/Resources/Images/eagle network my profile.png" />
+    <Link
+      Url="Content/Resources/Images/myprofileee.png" />
+    <Link
+      Url="Content/Resources/Images/saving profile.png" />
+    <Link
+      Url="Content/Resources/Images/document manager.png" />
+    <Link
+      Url="Content/Resources/Images/myconnections.png" />
+    <Link
+      Url="Content/Resources/Images/my activity.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/My Account.PNG" />
+    <Link
+      Url="Content/Resources/Images/eagle network my profile.png" />
+    <Link
+      Url="Content/Resources/Images/myprofileee.png" />
+    <Link
+      Url="Content/Resources/Images/saving profile.png" />
+    <Link
+      Url="Content/Resources/Images/document manager.png" />
+    <Link
+      Url="Content/Resources/Images/myconnections.png" />
+    <Link
+      Url="Content/Resources/Images/my activity.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ready for Review" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
